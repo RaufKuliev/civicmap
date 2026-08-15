@@ -38,6 +38,9 @@ jobs:
   browser:
     runs-on: ubuntu-24.04
     timeout-minutes: 20
+    env:
+      # Browser tests intercept this provider; setting it only enables the adapter UI in CI.
+      NEXT_PUBLIC_GEOCODER_ENDPOINT: https://nominatim.openstreetmap.org/search
     steps:
       - uses: actions/checkout@v4
       - uses: pnpm/action-setup@v4
