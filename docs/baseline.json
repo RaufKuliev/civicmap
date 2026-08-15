@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "generated_for_snapshot": "2026-07-18",
+  "counts": {
+    "regions": 89,
+    "districts": 225,
+    "candidates": 1670,
+    "region_json_files": 445,
+    "raw_files": 5
+  },
+  "bytes": {
+    "region_json": 1475334,
+    "raw": 41115552
+  },
+  "source_sha256": {
+    "data/raw/2026-08-14/sources/candidates-nominated-2026-07-18.docx": "f8aa80703632e56269513d14412c94ef146b39a2ff3a6b36da63c8e9dbdfa436",
+    "data/raw/2026-08-14/sources/districts-107fz.docx": "5d56a3fa240006d846afb7b3d7bdf97df8cbff2a45d66d937156ef341f584d29",
+    "data/raw/2026-08-14/sources/ne_10m_admin_1_states_provinces.geojson": "22d0e3ad85eb3e27f17cabf8ba2d50e554fbc27a87796ff891d958185da62fb5"
+  }
+}

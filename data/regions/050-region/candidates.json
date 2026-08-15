@@ -1,0 +1,121 @@
+[
+  {
+    "id": "c108-united-russia-181680e519",
+    "full_name": "Анохин Алексей Алексеевич",
+    "birth_date": "1960-10-06",
+    "district_number": 108,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c108-fair-russia-b869ca0408",
+    "full_name": "Буй Анатолий Филиппович",
+    "birth_date": "1949-03-05",
+    "district_number": 108,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c108-new-people-b155e0667d",
+    "full_name": "Зайфиди Павел Кириллович",
+    "birth_date": "1957-07-07",
+    "district_number": 108,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c108-kprf-7bc3f14680",
+    "full_name": "Ижицкий Валерий Петрович",
+    "birth_date": "1951-09-17",
+    "district_number": 108,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c108-pensioners-3f43422eec",
+    "full_name": "Кудрявцев Юрий Петрович",
+    "birth_date": "1961-09-03",
+    "district_number": 108,
+    "nomination_type": "party",
+    "party_id": "pensioners",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c108-ldpr-ead631d955",
+    "full_name": "Миндолин Юрий Алексеевич",
+    "birth_date": "1961-11-24",
+    "district_number": 108,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c108-yabloko-3870c96db0",
+    "full_name": "Тарасов Андрей Леонидович",
+    "birth_date": "1975-02-13",
+    "district_number": 108,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  }
+]

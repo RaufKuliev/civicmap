@@ -1,0 +1,682 @@
+[
+  {
+    "id": "c151-fair-russia-36cc5b1a46",
+    "full_name": "Белоусова Наталья Викторовна",
+    "birth_date": "1976-06-07",
+    "district_number": 151,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c151-united-russia-3b39c6ed6a",
+    "full_name": "Сизякин Дмитрий Владимирович",
+    "birth_date": "1965-01-26",
+    "district_number": 151,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c151-ldpr-671c38c984",
+    "full_name": "Синонян Тарас Олегович",
+    "birth_date": "1985-07-01",
+    "district_number": 151,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c151-kprf-491480053f",
+    "full_name": "Черкашин Лавр Александрович",
+    "birth_date": "1988-06-26",
+    "district_number": 151,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c151-new-people-c6a6c46e49",
+    "full_name": "Чухлебов Александр Александрович",
+    "birth_date": "1995-09-01",
+    "district_number": 151,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c151-yabloko-ad5f2ceae5",
+    "full_name": "Шабалин Олег Алексеевич",
+    "birth_date": "2005-03-01",
+    "district_number": 151,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c151-communists-russia-5b776d551a",
+    "full_name": "Шелудько Андрей Юрьевич",
+    "birth_date": "1982-11-27",
+    "district_number": 151,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c152-kprf-95204e29ed",
+    "full_name": "Дедович Александр Дмитриевич",
+    "birth_date": "1970-11-30",
+    "district_number": 152,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c152-yabloko-0a3a359714",
+    "full_name": "Кошевой Сергей Викторович",
+    "birth_date": "2001-10-22",
+    "district_number": 152,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c152-pensioners-1e18357a8d",
+    "full_name": "Приходько Василий Александрович",
+    "birth_date": "1974-04-26",
+    "district_number": 152,
+    "nomination_type": "party",
+    "party_id": "pensioners",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c152-united-russia-7dabc425b2",
+    "full_name": "Рожков Сергей Владимирович",
+    "birth_date": "1976-07-10",
+    "district_number": 152,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c152-ldpr-87773f4981",
+    "full_name": "Чумаков Максим Викторович",
+    "birth_date": "1982-11-01",
+    "district_number": 152,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c152-new-people-0e70ea21ee",
+    "full_name": "Шабалин Олег Алексеевич",
+    "birth_date": "2005-03-01",
+    "district_number": 152,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c152-fair-russia-0bc6f905a7",
+    "full_name": "Шувалов Олег Александрович",
+    "birth_date": "1979-10-24",
+    "district_number": 152,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c153-kprf-3fb12fe492",
+    "full_name": "Бессонов Евгений Иванович",
+    "birth_date": "1968-11-26",
+    "district_number": 153,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c153-yabloko-680106717e",
+    "full_name": "Гроо Дмитрий Дмитриевич",
+    "birth_date": "2003-04-15",
+    "district_number": 153,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c153-new-people-1df415e9f1",
+    "full_name": "Запорожченко Герман Геннадьевич",
+    "birth_date": "1991-08-22",
+    "district_number": 153,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c153-communists-russia-7e3aaabc28",
+    "full_name": "Кобяков Олег Юрьевич",
+    "birth_date": "1965-05-19",
+    "district_number": 153,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c153-united-russia-e4c86bc8cd",
+    "full_name": "Медведев Сергей Николаевич",
+    "birth_date": "1966-08-31",
+    "district_number": 153,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c153-ldpr-8d611df685",
+    "full_name": "Румянцева Любовь Васильевна",
+    "birth_date": "1984-08-08",
+    "district_number": 153,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c153-fair-russia-ab24a3fad4",
+    "full_name": "Федоров Максим Сергеевич",
+    "birth_date": "1991-05-24",
+    "district_number": 153,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c154-united-russia-928320c29c",
+    "full_name": "Величко Артем Николаевич",
+    "birth_date": "1988-07-27",
+    "district_number": 154,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c154-fair-russia-7de23df175",
+    "full_name": "Павленко Татьяна Эдуардовна",
+    "birth_date": "1984-05-29",
+    "district_number": 154,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c154-yabloko-f13e32465e",
+    "full_name": "Фомин Виталий Анатольевич",
+    "birth_date": "1963-04-08",
+    "district_number": 154,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c154-ldpr-d6aeb801fe",
+    "full_name": "Хижняк Евгений Анатольевич",
+    "birth_date": "1987-01-16",
+    "district_number": 154,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c154-new-people-15bc7cccc3",
+    "full_name": "Черемисов Илья Евгеньевич",
+    "birth_date": "2002-09-22",
+    "district_number": 154,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c154-pensioners-993bd56a29",
+    "full_name": "Шаляев Алексей Викторович",
+    "birth_date": "1979-04-10",
+    "district_number": 154,
+    "nomination_type": "party",
+    "party_id": "pensioners",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c154-kprf-4c7f4f3cdf",
+    "full_name": "Шаповалов Сергей Александрович",
+    "birth_date": "1965-07-04",
+    "district_number": 154,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c155-kprf-dc6dc46e0b",
+    "full_name": "Абакумов Виталий Анатольевич",
+    "birth_date": "1973-01-24",
+    "district_number": 155,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c155-yabloko-a8df06373f",
+    "full_name": "Бондаренко Даниил Александрович",
+    "birth_date": "2005-07-28",
+    "district_number": 155,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c155-fair-russia-7e1f43e6d6",
+    "full_name": "Егорова Алина Алекберовна",
+    "birth_date": "1994-01-27",
+    "district_number": 155,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c155-new-people-aa191ef51a",
+    "full_name": "Ильинов Максим Владимирович",
+    "birth_date": "1982-12-29",
+    "district_number": 155,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c155-ldpr-015a0f215b",
+    "full_name": "Пунда Денис Анатольевич",
+    "birth_date": "1984-01-06",
+    "district_number": 155,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c155-united-russia-eec5cac257",
+    "full_name": "Хуаде Аслан Гарунович",
+    "birth_date": "1960-11-29",
+    "district_number": 155,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c156-fair-russia-2fb014ce52",
+    "full_name": "Апанович Сергей Геннадьевич",
+    "birth_date": "1981-06-05",
+    "district_number": 156,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c156-new-people-3a85f5f3e4",
+    "full_name": "Белова Татьяна Борисовна",
+    "birth_date": "1973-05-16",
+    "district_number": 156,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c156-kprf-d808beb1e4",
+    "full_name": "Мисан Алексей Владимирович",
+    "birth_date": "1977-03-11",
+    "district_number": 156,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c156-ldpr-1d8f991595",
+    "full_name": "Мишин Василий Викторович",
+    "birth_date": "1975-01-29",
+    "district_number": 156,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c156-united-russia-9d72256279",
+    "full_name": "Стенякина Екатерина Петровна",
+    "birth_date": "1985-05-04",
+    "district_number": 156,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c156-yabloko-12e8453b38",
+    "full_name": "Черемисов Илья Евгеньевич",
+    "birth_date": "2002-09-22",
+    "district_number": 156,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  }
+]

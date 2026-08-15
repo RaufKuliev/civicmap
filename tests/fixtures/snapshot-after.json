@@ -1,0 +1,49 @@
+{
+  "manifest": {
+    "schema_version": 1,
+    "snapshot_id": "fixture-2026-07-19",
+    "election_id": "duma-2026",
+    "as_of": "2026-07-19",
+    "created_on": "2026-08-14",
+    "dataset_kind": "synthetic",
+    "predecessor_snapshot_id": "fixture-2026-07-18",
+    "sources": [{
+      "id": "source-fixture-after",
+      "title": "Fixture after",
+      "url": null,
+      "publisher": "CIVIC MAP tests",
+      "source_kind": "synthetic_fixture",
+      "published_on": "2026-07-19",
+      "accessed_on": "2026-08-14",
+      "sha256": null,
+      "archived_path": null
+    }],
+    "record_counts": { "regions": 1, "districts": 1, "candidates": 2 }
+  },
+  "candidates": [
+    {
+      "id": "candidate-changing",
+      "full_name": "Иванов Иван Иванович",
+      "birth_date": "1980-01-02",
+      "district_number": 225,
+      "nomination_type": "party",
+      "party_id": "fixture-party",
+      "status": "certified_list",
+      "status_as_of": "2026-07-19",
+      "official_source": { "title": "Fixture certified list", "url": null, "accessed_at": "2026-08-14", "source_kind": "synthetic_fixture" },
+      "synthetic": true
+    },
+    {
+      "id": "candidate-added",
+      "full_name": "Сидорова Анна Сергеевна",
+      "birth_date": "1990-02-03",
+      "district_number": 225,
+      "nomination_type": "self",
+      "party_id": null,
+      "status": "nominated",
+      "status_as_of": "2026-07-19",
+      "official_source": { "title": "Fixture nomination", "url": null, "accessed_at": "2026-08-14", "source_kind": "synthetic_fixture" },
+      "synthetic": true
+    }
+  ]
+}

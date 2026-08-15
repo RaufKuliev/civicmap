@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "fixture_id": "synthetic-self-nominee-adapter-test",
+  "observed_on": "2026-08-14",
+  "acquisition": "recorded_html",
+  "source_pages": [
+    {
+      "id": "synthetic-oik-225",
+      "title": "Синтетическая страница ОИК для теста адаптера",
+      "url": "https://fixture.invalid/oik-225",
+      "publisher": "Тестовая комиссия"
+    }
+  ],
+  "records": [
+    {
+      "candidate_id": null,
+      "full_name": "Тестов Тест Тестович",
+      "birth_date": "1980-01-01",
+      "district_number": 225,
+      "nomination_type": "self",
+      "party_id": null,
+      "nominated_on": "2026-07-20",
+      "status": "registered",
+      "decision": { "number": "1/1", "decided_on": "2026-07-25", "commission": "Тестовая ОИК № 225" },
+      "source_page_id": "synthetic-oik-225"
+    }
+  ]
+}

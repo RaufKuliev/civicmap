@@ -1,0 +1,50 @@
+[
+  {
+    "number": 58,
+    "name": "Красноярский край – Красноярский",
+    "territory_description": "Красноярский край – Красноярский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Красноярского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 59,
+    "name": "Красноярский край – Центральный",
+    "territory_description": "Красноярский край – Центральный одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Красноярского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 60,
+    "name": "Красноярский край – Дивногорский",
+    "territory_description": "Красноярский край – Дивногорский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Красноярского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 61,
+    "name": "Красноярский край – Енисейский",
+    "territory_description": "Красноярский край – Енисейский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Красноярского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

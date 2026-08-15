@@ -1,0 +1,138 @@
+[
+  {
+    "id": "c21-communists-russia-54f97bf897",
+    "full_name": "Касьяненко Александр Александрович",
+    "birth_date": "1989-06-01",
+    "district_number": 21,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c21-united-russia-25e3903230",
+    "full_name": "Кочев Станислав Вадимович",
+    "birth_date": "1988-05-28",
+    "district_number": 21,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c21-ldpr-681db26a2c",
+    "full_name": "Кривощекова Татьяна Владимировна",
+    "birth_date": "1977-12-17",
+    "district_number": 21,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c21-greens-b1af8b1a1d",
+    "full_name": "Кулешов Семён Михайлович",
+    "birth_date": "1978-11-09",
+    "district_number": 21,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c21-kprf-82180c29ff",
+    "full_name": "Михайлов Олег Алексеевич",
+    "birth_date": "1987-01-06",
+    "district_number": 21,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c21-new-people-77beef158d",
+    "full_name": "Потемкин Алексей Игоревич",
+    "birth_date": "1992-01-03",
+    "district_number": 21,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c21-fair-russia-5c21e7e6e0",
+    "full_name": "Саладина Татьяна Алексеевна",
+    "birth_date": "1964-01-28",
+    "district_number": 21,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c21-pensioners-921b46ebd0",
+    "full_name": "Чужмарева Ольга Борисовна",
+    "birth_date": "1953-04-03",
+    "district_number": 21,
+    "nomination_type": "party",
+    "party_id": "pensioners",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  }
+]

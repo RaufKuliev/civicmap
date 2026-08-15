@@ -1,0 +1,359 @@
+[
+  {
+    "id": "c66-communists-russia-f103a9fbe5",
+    "full_name": "Андони Александр Анатольевич",
+    "birth_date": "1989-01-18",
+    "district_number": 66,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c66-ldpr-794448f21d",
+    "full_name": "Андрейченко Андрей Валерьевич",
+    "birth_date": "1984-03-29",
+    "district_number": 66,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c66-pensioners-728cb1218a",
+    "full_name": "Байделюк Вячеслав Викторович",
+    "birth_date": "1960-08-30",
+    "district_number": 66,
+    "nomination_type": "party",
+    "party_id": "pensioners",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c66-yabloko-e57942bc0b",
+    "full_name": "Годисов Олег Викторович",
+    "birth_date": "1967-10-18",
+    "district_number": 66,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c66-greens-5ef59f1883",
+    "full_name": "Клеймёнов Константин Вячеславович",
+    "birth_date": "1991-03-09",
+    "district_number": 66,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c66-kprf-1a6cd6e198",
+    "full_name": "Куликов Геннадий Петрович",
+    "birth_date": "1947-01-03",
+    "district_number": 66,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c66-new-people-b1826349aa",
+    "full_name": "Рассадин Владомир Маркович",
+    "birth_date": "1999-01-05",
+    "district_number": 66,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c66-fair-russia-8c7a26125a",
+    "full_name": "Чепахина Нина Владимировна",
+    "birth_date": "1986-02-11",
+    "district_number": 66,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c66-united-russia-832861456a",
+    "full_name": "Щербаков Александр Владимирович",
+    "birth_date": "1965-03-12",
+    "district_number": 66,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c67-kprf-72e5d9fafb",
+    "full_name": "Акимов Андрей Петрович",
+    "birth_date": "1975-10-10",
+    "district_number": 67,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c67-fair-russia-7cedf46a85",
+    "full_name": "Апакаев Матвей Алексеевич",
+    "birth_date": "2004-12-03",
+    "district_number": 67,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c67-united-russia-d4e7aba996",
+    "full_name": "Букаев Геннадий Иванович",
+    "birth_date": "1947-09-15",
+    "district_number": 67,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c67-ldpr-8a79a547e3",
+    "full_name": "Васильев Василий Александрович",
+    "birth_date": "1987-09-14",
+    "district_number": 67,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c67-new-people-6f86d69590",
+    "full_name": "Раилко Павел Петрович",
+    "birth_date": "1982-10-27",
+    "district_number": 67,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c67-pensioners-934f0af65c",
+    "full_name": "Трутнев Иван Александрович",
+    "birth_date": "1987-08-04",
+    "district_number": 67,
+    "nomination_type": "party",
+    "party_id": "pensioners",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c68-fair-russia-e580f4ea5e",
+    "full_name": "Васюткин Николай Ефремович",
+    "birth_date": "1985-01-17",
+    "district_number": 68,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c68-ldpr-c5c8b55379",
+    "full_name": "Гнездилов Вячеслав Николаевич",
+    "birth_date": "1988-08-02",
+    "district_number": 68,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c68-new-people-18413ce318",
+    "full_name": "Комаров Дмитрий Анатольевич",
+    "birth_date": "1976-05-29",
+    "district_number": 68,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c68-pensioners-6bc3f919b4",
+    "full_name": "Панков Евгений Александрович",
+    "birth_date": "1972-03-23",
+    "district_number": 68,
+    "nomination_type": "party",
+    "party_id": "pensioners",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c68-kprf-5405831146",
+    "full_name": "Сорокин Александр Васильевич",
+    "birth_date": "1982-10-24",
+    "district_number": 68,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c68-united-russia-ab51cfcce1",
+    "full_name": "Тихонович Кирилл Владимирович",
+    "birth_date": "1984-03-16",
+    "district_number": 68,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  }
+]

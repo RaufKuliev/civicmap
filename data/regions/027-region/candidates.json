@@ -1,0 +1,70 @@
+[
+  {
+    "id": "c48-kprf-a4eccc4b27",
+    "full_name": "Литвинов Роман Демьянович",
+    "birth_date": "1967-06-18",
+    "district_number": 48,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c48-fair-russia-0e47566289",
+    "full_name": "Николаев Алексей Валерьевич",
+    "birth_date": "1979-07-10",
+    "district_number": 48,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c48-ldpr-de68207312",
+    "full_name": "Смолин Владимир Вадимович",
+    "birth_date": "1961-06-13",
+    "district_number": 48,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c48-united-russia-f614f3d1f2",
+    "full_name": "Яровая Ирина Анатольевна",
+    "birth_date": "1966-10-17",
+    "district_number": 48,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  }
+]

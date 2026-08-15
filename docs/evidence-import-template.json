@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c000-party-example",
+  "biography": [
+    {
+      "id": "stable-item-id",
+      "field": "current_role",
+      "value": "Точное утверждение без редакционного дополнения",
+      "as_of": "YYYY-MM-DD",
+      "evidence": {
+        "publisher": "Полное название издателя",
+        "source_url": "https://official.example/profile",
+        "source_class": "government_official",
+        "quality_tier": "primary_official",
+        "published_on": null,
+        "accessed_on": "YYYY-MM-DD"
+      }
+    }
+  ],
+  "contacts": [],
+  "resources": [],
+  "news": []
+}

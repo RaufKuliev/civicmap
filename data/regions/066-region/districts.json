@@ -1,0 +1,74 @@
+[
+  {
+    "number": 151,
+    "name": "Ростовская область – Ростовский",
+    "territory_description": "Ростовская область – Ростовский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Ростовской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 152,
+    "name": "Ростовская область – Батайский",
+    "territory_description": "Ростовская область – Батайский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Ростовской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 153,
+    "name": "Ростовская область – Новочеркасский",
+    "territory_description": "Ростовская область – Новочеркасский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Ростовской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 154,
+    "name": "Ростовская область – Неклиновский",
+    "territory_description": "Ростовская область – Неклиновский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Ростовской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 155,
+    "name": "Ростовская область – Белокалитвинский",
+    "territory_description": "Ростовская область – Белокалитвинский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Ростовской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 156,
+    "name": "Ростовская область – Усть-Донецкий",
+    "territory_description": "Ростовская область – Усть-Донецкий одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Ростовской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

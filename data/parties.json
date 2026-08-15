@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pensioners",
+    "name": "Российская партия пенсионеров за социальную справедливость",
+    "short_name": "Партия пенсионеров",
+    "synthetic": false
+  },
+  {
+    "id": "communists-russia",
+    "name": "Коммунистическая партия Коммунисты России",
+    "short_name": "Коммунисты России",
+    "synthetic": false
+  },
+  {
+    "id": "ldpr",
+    "name": "ЛДПР — Либерально-демократическая партия России",
+    "short_name": "ЛДПР",
+    "synthetic": false
+  },
+  {
+    "id": "kprf",
+    "name": "Коммунистическая партия Российской Федерации",
+    "short_name": "КПРФ",
+    "synthetic": false
+  },
+  {
+    "id": "united-russia",
+    "name": "Всероссийская политическая партия «Единая Россия»",
+    "short_name": "Единая Россия",
+    "synthetic": false
+  },
+  {
+    "id": "new-people",
+    "name": "Политическая партия «Новые люди»",
+    "short_name": "Новые люди",
+    "synthetic": false
+  },
+  {
+    "id": "yabloko",
+    "name": "Российская объединённая демократическая партия «Яблоко»",
+    "short_name": "Яблоко",
+    "synthetic": false
+  },
+  {
+    "id": "fair-russia",
+    "name": "Социалистическая политическая партия «Справедливая Россия»",
+    "short_name": "Справедливая Россия",
+    "synthetic": false
+  },
+  {
+    "id": "rodina",
+    "name": "Всероссийская политическая партия «Родина»",
+    "short_name": "Родина",
+    "synthetic": false
+  },
+  {
+    "id": "direct-democracy",
+    "name": "Политическая партия «Партия прямой демократии»",
+    "short_name": "Партия прямой демократии",
+    "synthetic": false
+  },
+  {
+    "id": "greens",
+    "name": "Российская экологическая партия «Зелёные»",
+    "short_name": "Зелёные",
+    "synthetic": false
+  }
+]

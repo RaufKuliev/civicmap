@@ -1,0 +1,26 @@
+[
+  {
+    "number": 181,
+    "name": "Тульская область – Тульский",
+    "territory_description": "Тульская область – Тульский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Тульской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 182,
+    "name": "Тульская область – Новомосковский",
+    "territory_description": "Тульская область – Новомосковский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Тульской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

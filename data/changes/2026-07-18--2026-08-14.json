@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "before_snapshot_id": "duma-2026-2026-07-18",
+  "after_snapshot_id": "duma-2026-2026-08-14",
+  "generated_on": "2026-08-14",
+  "added": [],
+  "removed": [],
+  "status_changes": [
+    {
+      "candidate_id": "c201-communists-russia-6a062131a0",
+      "full_name": "Андрусенко Наталия Юрьевна",
+      "district_number": 201,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-27",
+      "decision": {
+        "number": "7/6",
+        "decided_on": "2026-07-27",
+        "commission": "ОИК № 201"
+      },
+      "source": {
+        "title": "Решение № 7/6 от 2026-07-27: Андрусенко Наталия Юрьевна",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/"
+      }
+    },
+    {
+      "candidate_id": "c201-new-people-0c8d4ba84b",
+      "full_name": "Анисимов Максим Константинович",
+      "district_number": 201,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-27",
+      "decision": {
+        "number": "7/1",
+        "decided_on": "2026-07-27",
+        "commission": "ОИК № 201"
+      },
+      "source": {
+        "title": "Решение № 7/1 от 2026-07-27: Анисимов Максим Константинович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/"
+      }
+    },
+    {
+      "candidate_id": "c201-fair-russia-4ceb0cc4bf",
+      "full_name": "Артамонов Александр Германович",
+      "district_number": 201,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-27",
+      "decision": {
+        "number": "7/4",
+        "decided_on": "2026-07-27",
+        "commission": "ОИК № 201"
+      },
+      "source": {
+        "title": "Решение № 7/4 от 2026-07-27: Артамонов Александр Германович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/"
+      }
+    },
+    {
+      "candidate_id": "c201-yabloko-0dac756762",
+      "full_name": "Ковалев Семен Юрьевич",
+      "district_number": 201,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-27",
+      "decision": {
+        "number": "7/3",
+        "decided_on": "2026-07-27",
+        "commission": "ОИК № 201"
+      },
+      "source": {
+        "title": "Решение № 7/3 от 2026-07-27: Ковалев Семен Юрьевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/"
+      }
+    },
+    {
+      "candidate_id": "c201-greens-639d48d182",
+      "full_name": "Ковалев Сергей Анатольевич",
+      "district_number": 201,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-27",
+      "decision": {
+        "number": "7/5",
+        "decided_on": "2026-07-27",
+        "commission": "ОИК № 201"
+      },
+      "source": {
+        "title": "Решение № 7/5 от 2026-07-27: Ковалев Сергей Анатольевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/"
+      }
+    },
+    {
+      "candidate_id": "c201-ldpr-ed4c83577d",
+      "full_name": "Лапшов Алексей Сергеевич",
+      "district_number": 201,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-20",
+      "decision": {
+        "number": "5/1",
+        "decided_on": "2026-07-20",
+        "commission": "ОИК № 201"
+      },
+      "source": {
+        "title": "Решение № 5/1 от 2026-07-20: Лапшов Алексей Сергеевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/"
+      }
+    },
+    {
+      "candidate_id": "c201-kprf-a042d41dcf",
+      "full_name": "Потемко-Стеценко Михаил Алексеевич",
+      "district_number": 201,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-27",
+      "decision": {
+        "number": "7/2",
+        "decided_on": "2026-07-27",
+        "commission": "ОИК № 201"
+      },
+      "source": {
+        "title": "Решение № 7/2 от 2026-07-27: Потемко-Стеценко Михаил Алексеевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/"
+      }
+    },
+    {
+      "candidate_id": "c201-united-russia-7940cb4d34",
+      "full_name": "Саблин Дмитрий Вадимович",
+      "district_number": 201,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-20",
+      "decision": {
+        "number": "5/2",
+        "decided_on": "2026-07-20",
+        "commission": "ОИК № 201"
+      },
+      "source": {
+        "title": "Решение № 5/2 от 2026-07-20: Саблин Дмитрий Вадимович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/"
+      }
+    },
+    {
+      "candidate_id": "c202-communists-russia-1d7d77b023",
+      "full_name": "Андрусенко Леонид Степанович",
+      "district_number": 202,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-28",
+      "decision": {
+        "number": "7/2",
+        "decided_on": "2026-07-28",
+        "commission": "ОИК № 202"
+      },
+      "source": {
+        "title": "Решение № 7/2 от 2026-07-28: Андрусенко Леонид Степанович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/"
+      }
+    },
+    {
+      "candidate_id": "c202-ldpr-7ad91a8286",
+      "full_name": "Борисоглебский Никита Маркович",
+      "district_number": 202,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-22",
+      "decision": {
+        "number": "6/1",
+        "decided_on": "2026-07-22",
+        "commission": "ОИК № 202"
+      },
+      "source": {
+        "title": "Решение № 6/1 от 2026-07-22: Борисоглебский Никита Маркович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/"
+      }
+    },
+    {
+      "candidate_id": "c202-kprf-d2f0855da6",
+      "full_name": "Воробьёв Леонид Дмитриевич",
+      "district_number": 202,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-22",
+      "decision": {
+        "number": "6/3",
+        "decided_on": "2026-07-22",
+        "commission": "ОИК № 202"
+      },
+      "source": {
+        "title": "Решение № 6/3 от 2026-07-22: Воробьёв Леонид Дмитриевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/"
+      }
+    },
+    {
+      "candidate_id": "c202-new-people-4c711bf266",
+      "full_name": "Демидов Иван Александрович",
+      "district_number": 202,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-22",
+      "decision": {
+        "number": "6/2",
+        "decided_on": "2026-07-22",
+        "commission": "ОИК № 202"
+      },
+      "source": {
+        "title": "Решение № 6/2 от 2026-07-22: Демидов Иван Александрович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/"
+      }
+    },
+    {
+      "candidate_id": "c202-fair-russia-2a8268deb8",
+      "full_name": "Иванов Андрей Викторович",
+      "district_number": 202,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-28",
+      "decision": {
+        "number": "7/1",
+        "decided_on": "2026-07-28",
+        "commission": "ОИК № 202"
+      },
+      "source": {
+        "title": "Решение № 7/1 от 2026-07-28: Иванов Андрей Викторович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/"
+      }
+    },
+    {
+      "candidate_id": "c202-united-russia-2a7cd4d6e8",
+      "full_name": "Нифантьев Евгений Олегович",
+      "district_number": 202,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-22",
+      "decision": {
+        "number": "6/4",
+        "decided_on": "2026-07-22",
+        "commission": "ОИК № 202"
+      },
+      "source": {
+        "title": "Решение № 6/4 от 2026-07-22: Нифантьев Евгений Олегович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/"
+      }
+    },
+    {
+      "candidate_id": "c202-yabloko-0acc86c64f",
+      "full_name": "Пархоменко Сергей Дмитриевич",
+      "district_number": 202,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-08-03",
+      "decision": {
+        "number": "8/1",
+        "decided_on": "2026-08-03",
+        "commission": "ОИК № 202"
+      },
+      "source": {
+        "title": "Решение № 8/1 от 2026-08-03: Пархоменко Сергей Дмитриевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/"
+      }
+    },
+    {
+      "candidate_id": "c202-greens-e46ad251cf",
+      "full_name": "Чеботарев Павел Геннадьевич",
+      "district_number": 202,
+      "region_id": "082-region",
+      "before_status": "certified_list",
+      "after_status": "registered",
+      "effective_on": "2026-07-28",
+      "decision": {
+        "number": "7/3",
+        "decided_on": "2026-07-28",
+        "commission": "ОИК № 202"
+      },
+      "source": {
+        "title": "Решение № 7/3 от 2026-07-28: Чеботарев Павел Геннадьевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/"
+      }
+    }
+  ]
+}

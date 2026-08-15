@@ -1,0 +1,38 @@
+[
+  {
+    "number": 141,
+    "name": "Омская область – Омский",
+    "territory_description": "Омская область – Омский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Омской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 142,
+    "name": "Омская область – Москаленский",
+    "territory_description": "Омская область – Москаленский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Омской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 143,
+    "name": "Омская область – Любинский",
+    "territory_description": "Омская область – Любинский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Омской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

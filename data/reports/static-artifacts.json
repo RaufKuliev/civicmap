@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "base_path": "/civicmap",
+  "html_files": 1993,
+  "files": 11973,
+  "total_bytes": 171826955,
+  "internal_references": 61130,
+  "broken_links": [],
+  "forbidden_archives": [],
+  "budgets": {
+    "search_html_bytes": 35198,
+    "search_index_bytes": 666501,
+    "search_html_limit": 250000,
+    "search_index_limit": 800000
+  }
+}

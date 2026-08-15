@@ -1,0 +1,194 @@
+[
+  {
+    "number": 195,
+    "name": "Город Москва – Бабушкинский",
+    "territory_description": "Город Москва – Бабушкинский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия Лосиноостровского района",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 196,
+    "name": "Город Москва – Кунцевский",
+    "territory_description": "Город Москва – Кунцевский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Кунцево",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 197,
+    "name": "Город Москва – Ленинградский",
+    "territory_description": "Город Москва – Ленинградский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия Тимирязевского района",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 198,
+    "name": "Город Москва – Люблинский",
+    "territory_description": "Город Москва – Люблинский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Марьино",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 199,
+    "name": "Город Москва – Медведковский",
+    "territory_description": "Город Москва – Медведковский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Бибирево",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 200,
+    "name": "Город Москва – Нагатинский",
+    "territory_description": "Город Москва – Нагатинский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Нагатино-Садовники",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 201,
+    "name": "Город Москва – Новомосковский",
+    "territory_description": "Город Москва – Новомосковский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия Филимонковского района",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 202,
+    "name": "Город Москва – Орехово-Борисовский",
+    "territory_description": "Город Москва – Орехово-Борисовский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Зябликово",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 203,
+    "name": "Город Москва – Перовский",
+    "territory_description": "Город Москва – Перовский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Перово",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 204,
+    "name": "Город Москва – Преображенский",
+    "territory_description": "Город Москва – Преображенский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Преображенское",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 205,
+    "name": "Город Москва – Тушинский",
+    "territory_description": "Город Москва – Тушинский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Хорошево-Мневники",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 206,
+    "name": "Город Москва – Ховринский",
+    "territory_description": "Город Москва – Ховринский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Ховрино",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 207,
+    "name": "Город Москва – Центральный",
+    "territory_description": "Город Москва – Центральный одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Хамовники",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 208,
+    "name": "Город Москва – Черемушкинский",
+    "territory_description": "Город Москва – Черемушкинский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Теплый Стан",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 209,
+    "name": "Город Москва – Чертановский",
+    "territory_description": "Город Москва – Чертановский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Южное Бутово",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 210,
+    "name": "Город Москва – Солнцевский",
+    "territory_description": "Город Москва – Солнцевский одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия района Тропарево-Никулино",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

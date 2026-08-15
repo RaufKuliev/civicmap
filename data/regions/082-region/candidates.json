@@ -1,0 +1,3968 @@
+[
+  {
+    "id": "c195-pensioners-0e68f5bb1e",
+    "full_name": "Андрусенко Наталия Юрьевна",
+    "birth_date": "1954-10-28",
+    "district_number": 195,
+    "nomination_type": "party",
+    "party_id": "pensioners",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c195-direct-democracy-32a5eb9416",
+    "full_name": "Архангельская Елизавета Владимировна",
+    "birth_date": "1990-09-27",
+    "district_number": 195,
+    "nomination_type": "party",
+    "party_id": "direct-democracy",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c195-new-people-e675c49056",
+    "full_name": "Владимиров Максим Павлович",
+    "birth_date": "1995-12-27",
+    "district_number": 195,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c195-united-russia-6bda736e0c",
+    "full_name": "Гусев Владислав Андреевич",
+    "birth_date": "1994-09-15",
+    "district_number": 195,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c195-yabloko-4fafcb60ff",
+    "full_name": "Кабышев Сергей Владимирович",
+    "birth_date": "1963-09-04",
+    "district_number": 195,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c195-greens-d988e7d078",
+    "full_name": "Кузнецова Юлия Вадимовна",
+    "birth_date": "1996-08-19",
+    "district_number": 195,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c195-ldpr-11a39a84b1",
+    "full_name": "Кумин Вадим Валентинович",
+    "birth_date": "1973-01-01",
+    "district_number": 195,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c195-kprf-dbfa2ebf3f",
+    "full_name": "Федоров Георгий Владимирович",
+    "birth_date": "1973-05-07",
+    "district_number": 195,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c195-fair-russia-1e089e841d",
+    "full_name": "Фокина Татьяна Михайловна",
+    "birth_date": "1969-01-27",
+    "district_number": 195,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c196-communists-russia-ae6f8ad66f",
+    "full_name": "Аверин Дмитрий Владимирович",
+    "birth_date": "1984-08-30",
+    "district_number": 196,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c196-kprf-acb030ae12",
+    "full_name": "Алексеенко Олег Александрович",
+    "birth_date": "1987-01-12",
+    "district_number": 196,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c196-yabloko-4298e82c56",
+    "full_name": "Евтеев Андрей Алексеевич",
+    "birth_date": "1982-10-19",
+    "district_number": 196,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c196-new-people-d7ec514df7",
+    "full_name": "Копкина Ирина Николаевна",
+    "birth_date": "1956-04-08",
+    "district_number": 196,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c196-fair-russia-d55d448e9e",
+    "full_name": "Курин Владимир Геннадьевич",
+    "birth_date": "1962-11-13",
+    "district_number": 196,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c196-united-russia-693bac6862",
+    "full_name": "Попов Евгений Георгиевич",
+    "birth_date": "1978-09-11",
+    "district_number": 196,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c196-ldpr-75438c7a26",
+    "full_name": "Царихин Виктор Алексеевич",
+    "birth_date": "1988-09-18",
+    "district_number": 196,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c197-communists-russia-24e7c4037c",
+    "full_name": "Горбачев Александр Александрович",
+    "birth_date": "2002-12-27",
+    "district_number": 197,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c197-yabloko-59583df651",
+    "full_name": "Гришин Григорий Александрович",
+    "birth_date": "1980-12-19",
+    "district_number": 197,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c197-kprf-c7c1e31cd2",
+    "full_name": "Зотов Матвей Антонович",
+    "birth_date": "2003-04-28",
+    "district_number": 197,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c197-new-people-929d50372f",
+    "full_name": "Митрохин Сергей Сергеевич",
+    "birth_date": "1963-05-20",
+    "district_number": 197,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c197-direct-democracy-ef3a7efa32",
+    "full_name": "Палюлин Антон Юрьевич",
+    "birth_date": "1988-06-16",
+    "district_number": 197,
+    "nomination_type": "party",
+    "party_id": "direct-democracy",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c197-fair-russia-37ab42af05",
+    "full_name": "Хованская Галина Петровна",
+    "birth_date": "1943-08-23",
+    "district_number": 197,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c197-greens-5c961baa75",
+    "full_name": "Царенкова Наталия Борисовна",
+    "birth_date": "1967-09-26",
+    "district_number": 197,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c197-united-russia-3165e2b8f2",
+    "full_name": "Шарипов Эльдар Мударисович",
+    "birth_date": "1986-05-09",
+    "district_number": 197,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c197-ldpr-38196ccbf9",
+    "full_name": "Шпрыгин Александр Игоревич",
+    "birth_date": "1977-09-18",
+    "district_number": 197,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c198-ldpr-8b9122d97a",
+    "full_name": "Багян Сергей Арамович",
+    "birth_date": "1989-11-13",
+    "district_number": 198,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c198-pensioners-2931087a54",
+    "full_name": "Балабуткин Алексей Алексеевич",
+    "birth_date": "1979-07-31",
+    "district_number": 198,
+    "nomination_type": "party",
+    "party_id": "pensioners",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c198-yabloko-1a31d2064c",
+    "full_name": "Делягин Михаил Геннадьевич",
+    "birth_date": "1968-03-18",
+    "district_number": 198,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c198-new-people-584b7412bd",
+    "full_name": "Дорофеев Иван Ильич",
+    "birth_date": "1999-11-12",
+    "district_number": 198,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c198-communists-russia-cab58f8abb",
+    "full_name": "Жаров Иван Дмитриевич",
+    "birth_date": "2004-02-22",
+    "district_number": 198,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c198-kprf-b874e83008",
+    "full_name": "Жмакин Антон Витальевич",
+    "birth_date": "1985-06-12",
+    "district_number": 198,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c198-fair-russia-3faabf37e2",
+    "full_name": "Набиев Юрий Юрьевич",
+    "birth_date": "1980-11-21",
+    "district_number": 198,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c198-united-russia-52c3369c3e",
+    "full_name": "Толстой Петр Олегович",
+    "birth_date": "1969-06-20",
+    "district_number": 198,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "biography": [{
+      "id": "duma-role-2026", "field": "current_role",
+      "value": "Заместитель Председателя Государственной Думы восьмого созыва",
+      "as_of": "2026-08-14",
+      "evidence": { "publisher": "Государственная Дума Федерального Собрания Российской Федерации", "source_url": "https://duma.gov.ru/duma/persons/99112869/", "source_class": "government_official", "quality_tier": "primary_official", "published_on": null, "accessed_on": "2026-08-14" }
+    }],
+    "contacts": [{
+      "id": "duma-office-phone-2026", "type": "public_office_phone", "value": "+7 495 609-97-07", "label": "Справочная Государственной Думы", "as_of": "2026-08-14",
+      "evidence": { "publisher": "Государственная Дума Федерального Собрания Российской Федерации", "source_url": "https://duma.gov.ru/duma/persons/99112869/", "source_class": "government_official", "quality_tier": "primary_official", "published_on": null, "accessed_on": "2026-08-14" }
+    }],
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c199-greens-467e0daa23",
+    "full_name": "Зимин Александр Алексеевич",
+    "birth_date": "1996-11-05",
+    "district_number": 199,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c199-communists-russia-4e94ebe523",
+    "full_name": "Карташов Александр Николаевич",
+    "birth_date": "1990-05-04",
+    "district_number": 199,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c199-kprf-254e3a44c5",
+    "full_name": "Киселев Илья Витальевич",
+    "birth_date": "1998-07-28",
+    "district_number": 199,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c199-new-people-96bbdba364",
+    "full_name": "Ласкеев Игорь Борисович",
+    "birth_date": "2000-01-31",
+    "district_number": 199,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c199-fair-russia-0ad277890c",
+    "full_name": "Латынцев Александр Викторович",
+    "birth_date": "1969-12-27",
+    "district_number": 199,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c199-yabloko-488090fb40",
+    "full_name": "Лермант Полина Валерьевна",
+    "birth_date": "2001-12-15",
+    "district_number": 199,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c199-direct-democracy-de17d824ab",
+    "full_name": "Полканова Елизавета Ивановна",
+    "birth_date": "1992-03-04",
+    "district_number": 199,
+    "nomination_type": "party",
+    "party_id": "direct-democracy",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c199-ldpr-5b3e1993fc",
+    "full_name": "Рыбаков Василий Борисович",
+    "birth_date": "1985-07-25",
+    "district_number": 199,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c199-united-russia-adc3bc4a32",
+    "full_name": "Шелковой Александр Владимирович",
+    "birth_date": "1977-05-13",
+    "district_number": 199,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c200-communists-russia-f6c9bd0b04",
+    "full_name": "Бердяев Владимир Александрович",
+    "birth_date": "1987-09-15",
+    "district_number": 200,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c200-ldpr-fdacd6462c",
+    "full_name": "Бондарь Дмитрий Владимирович",
+    "birth_date": "1993-11-08",
+    "district_number": 200,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c200-kprf-dfcffe59e2",
+    "full_name": "Голобородько Алексей Александрович",
+    "birth_date": "1977-07-12",
+    "district_number": 200,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c200-fair-russia-e3f89531a3",
+    "full_name": "Делягин Михаил Геннадьевич",
+    "birth_date": "1968-03-18",
+    "district_number": 200,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c200-united-russia-5364912f1a",
+    "full_name": "Разворотнева Светлана Викторовна",
+    "birth_date": "1968-03-25",
+    "district_number": 200,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "biography": [{
+      "id": "duma-role-2026", "field": "current_role",
+      "value": "Депутат Государственной Думы восьмого созыва; заместитель председателя Комитета по строительству и жилищно-коммунальному хозяйству",
+      "as_of": "2026-08-14",
+      "evidence": { "publisher": "Государственная Дума Федерального Собрания Российской Федерации", "source_url": "https://duma.gov.ru/duma/persons/1055986/", "source_class": "government_official", "quality_tier": "primary_official", "published_on": null, "accessed_on": "2026-08-14" }
+    }],
+    "contacts": [],
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c200-new-people-91e9e9f962",
+    "full_name": "Ситников Иван Иванович",
+    "birth_date": "1985-08-08",
+    "district_number": 200,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c200-greens-54a5510cf2",
+    "full_name": "Фарафонов Анатолий Анатольевич",
+    "birth_date": "1981-08-21",
+    "district_number": 200,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c200-yabloko-0324c32134",
+    "full_name": "Чунихин Герман Альбертович",
+    "birth_date": "1996-10-08",
+    "district_number": 200,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c200-direct-democracy-c246090bc5",
+    "full_name": "Юров Вадим Сергеевич",
+    "birth_date": "2002-06-06",
+    "district_number": 200,
+    "nomination_type": "party",
+    "party_id": "direct-democracy",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c201-communists-russia-6a062131a0",
+    "full_name": "Андрусенко Наталия Юрьевна",
+    "birth_date": "1954-10-28",
+    "district_number": 201,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "registered",
+    "status_as_of": "2026-07-27",
+    "official_source": {
+      "title": "Решение № 7/6 от 2026-07-27: Андрусенко Наталия Юрьевна",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 7/6 от 2026-07-27: Андрусенко Наталия Юрьевна",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+        "id": "moscow-oik-201-3d07c690b533",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-27",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "communists-russia",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Андрусенко Наталия Юрьевна",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1954-10-28",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 201,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "communists-russia",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c201-communists-russia-6a062131a0-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c201-communists-russia-6a062131a0-registered-2026-07-27",
+        "status": "registered",
+        "effective_on": "2026-07-27",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-201-3d07c690b533"
+        ],
+        "decision": {
+          "number": "7/6",
+          "decided_on": "2026-07-27",
+          "commission": "ОИК № 201"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c201-new-people-0c8d4ba84b",
+    "full_name": "Анисимов Максим Константинович",
+    "birth_date": "2000-09-06",
+    "district_number": 201,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "registered",
+    "status_as_of": "2026-07-27",
+    "official_source": {
+      "title": "Решение № 7/1 от 2026-07-27: Анисимов Максим Константинович",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 7/1 от 2026-07-27: Анисимов Максим Константинович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+        "id": "moscow-oik-201-1226069cc847",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-27",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "new-people",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Анисимов Максим Константинович",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "2000-09-06",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 201,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "new-people",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c201-new-people-0c8d4ba84b-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c201-new-people-0c8d4ba84b-registered-2026-07-27",
+        "status": "registered",
+        "effective_on": "2026-07-27",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-201-1226069cc847"
+        ],
+        "decision": {
+          "number": "7/1",
+          "decided_on": "2026-07-27",
+          "commission": "ОИК № 201"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c201-fair-russia-4ceb0cc4bf",
+    "full_name": "Артамонов Александр Германович",
+    "birth_date": "1968-04-05",
+    "district_number": 201,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "registered",
+    "status_as_of": "2026-07-27",
+    "official_source": {
+      "title": "Решение № 7/4 от 2026-07-27: Артамонов Александр Германович",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 7/4 от 2026-07-27: Артамонов Александр Германович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+        "id": "moscow-oik-201-436b068c819f",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-27",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "fair-russia",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Артамонов Александр Германович",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1968-04-05",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 201,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "fair-russia",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c201-fair-russia-4ceb0cc4bf-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c201-fair-russia-4ceb0cc4bf-registered-2026-07-27",
+        "status": "registered",
+        "effective_on": "2026-07-27",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-201-436b068c819f"
+        ],
+        "decision": {
+          "number": "7/4",
+          "decided_on": "2026-07-27",
+          "commission": "ОИК № 201"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c201-yabloko-0dac756762",
+    "full_name": "Ковалев Семен Юрьевич",
+    "birth_date": "1996-04-25",
+    "district_number": 201,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "registered",
+    "status_as_of": "2026-07-27",
+    "official_source": {
+      "title": "Решение № 7/3 от 2026-07-27: Ковалев Семен Юрьевич",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 7/3 от 2026-07-27: Ковалев Семен Юрьевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+        "id": "moscow-oik-201-456aa9a6fac6",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-27",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "yabloko",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Ковалев Семен Юрьевич",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1996-04-25",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 201,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "yabloko",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c201-yabloko-0dac756762-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c201-yabloko-0dac756762-registered-2026-07-27",
+        "status": "registered",
+        "effective_on": "2026-07-27",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-201-456aa9a6fac6"
+        ],
+        "decision": {
+          "number": "7/3",
+          "decided_on": "2026-07-27",
+          "commission": "ОИК № 201"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c201-greens-639d48d182",
+    "full_name": "Ковалев Сергей Анатольевич",
+    "birth_date": "1974-04-04",
+    "district_number": 201,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "registered",
+    "status_as_of": "2026-07-27",
+    "official_source": {
+      "title": "Решение № 7/5 от 2026-07-27: Ковалев Сергей Анатольевич",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 7/5 от 2026-07-27: Ковалев Сергей Анатольевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+        "id": "moscow-oik-201-2e7cee5413b4",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-27",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "greens",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Ковалев Сергей Анатольевич",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1974-04-04",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 201,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "greens",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c201-greens-639d48d182-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c201-greens-639d48d182-registered-2026-07-27",
+        "status": "registered",
+        "effective_on": "2026-07-27",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-201-2e7cee5413b4"
+        ],
+        "decision": {
+          "number": "7/5",
+          "decided_on": "2026-07-27",
+          "commission": "ОИК № 201"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c201-ldpr-ed4c83577d",
+    "full_name": "Лапшов Алексей Сергеевич",
+    "birth_date": "1973-12-05",
+    "district_number": 201,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "registered",
+    "status_as_of": "2026-07-20",
+    "official_source": {
+      "title": "Решение № 5/1 от 2026-07-20: Лапшов Алексей Сергеевич",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 5/1 от 2026-07-20: Лапшов Алексей Сергеевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+        "id": "moscow-oik-201-6e8bb01a8e94",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-20",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "ldpr",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Лапшов Алексей Сергеевич",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1973-12-05",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 201,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "ldpr",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c201-ldpr-ed4c83577d-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c201-ldpr-ed4c83577d-registered-2026-07-20",
+        "status": "registered",
+        "effective_on": "2026-07-20",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-201-6e8bb01a8e94"
+        ],
+        "decision": {
+          "number": "5/1",
+          "decided_on": "2026-07-20",
+          "commission": "ОИК № 201"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c201-kprf-a042d41dcf",
+    "full_name": "Потемко-Стеценко Михаил Алексеевич",
+    "birth_date": "1964-01-20",
+    "district_number": 201,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "registered",
+    "status_as_of": "2026-07-27",
+    "official_source": {
+      "title": "Решение № 7/2 от 2026-07-27: Потемко-Стеценко Михаил Алексеевич",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 7/2 от 2026-07-27: Потемко-Стеценко Михаил Алексеевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+        "id": "moscow-oik-201-e2b890ab64a3",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-27",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "kprf",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Потемко-Стеценко Михаил Алексеевич",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1964-01-20",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 201,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "kprf",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c201-kprf-a042d41dcf-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c201-kprf-a042d41dcf-registered-2026-07-27",
+        "status": "registered",
+        "effective_on": "2026-07-27",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-201-e2b890ab64a3"
+        ],
+        "decision": {
+          "number": "7/2",
+          "decided_on": "2026-07-27",
+          "commission": "ОИК № 201"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c201-united-russia-7940cb4d34",
+    "full_name": "Саблин Дмитрий Вадимович",
+    "birth_date": "1968-09-05",
+    "district_number": 201,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "registered",
+    "status_as_of": "2026-07-20",
+    "official_source": {
+      "title": "Решение № 5/2 от 2026-07-20: Саблин Дмитрий Вадимович",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "biography": [
+      {
+        "id": "duma-role-2026",
+        "field": "current_role",
+        "value": "Депутат Государственной Думы восьмого созыва; заместитель председателя Комитета по обороне",
+        "as_of": "2026-08-14",
+        "evidence": {
+          "publisher": "Государственная Дума Федерального Собрания Российской Федерации",
+          "source_url": "https://duma.gov.ru/duma/persons/99109963/",
+          "source_class": "government_official",
+          "quality_tier": "primary_official",
+          "published_on": null,
+          "accessed_on": "2026-08-14"
+        }
+      }
+    ],
+    "contacts": [],
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 5/2 от 2026-07-20: Саблин Дмитрий Вадимович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+        "id": "moscow-oik-201-3357c875da25",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-20",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "united-russia",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Саблин Дмитрий Вадимович",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1968-09-05",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 201,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "united-russia",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c201-united-russia-7940cb4d34-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c201-united-russia-7940cb4d34-registered-2026-07-20",
+        "status": "registered",
+        "effective_on": "2026-07-20",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-201-3357c875da25"
+        ],
+        "decision": {
+          "number": "5/2",
+          "decided_on": "2026-07-20",
+          "commission": "ОИК № 201"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c202-communists-russia-1d7d77b023",
+    "full_name": "Андрусенко Леонид Степанович",
+    "birth_date": "1961-03-08",
+    "district_number": 202,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "registered",
+    "status_as_of": "2026-07-28",
+    "official_source": {
+      "title": "Решение № 7/2 от 2026-07-28: Андрусенко Леонид Степанович",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 7/2 от 2026-07-28: Андрусенко Леонид Степанович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+        "id": "moscow-oik-202-79e25c3591a4",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-28",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "communists-russia",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Андрусенко Леонид Степанович",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1961-03-08",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 202,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "communists-russia",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c202-communists-russia-1d7d77b023-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c202-communists-russia-1d7d77b023-registered-2026-07-28",
+        "status": "registered",
+        "effective_on": "2026-07-28",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-202-79e25c3591a4"
+        ],
+        "decision": {
+          "number": "7/2",
+          "decided_on": "2026-07-28",
+          "commission": "ОИК № 202"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c202-ldpr-7ad91a8286",
+    "full_name": "Борисоглебский Никита Маркович",
+    "birth_date": "1985-12-23",
+    "district_number": 202,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "registered",
+    "status_as_of": "2026-07-22",
+    "official_source": {
+      "title": "Решение № 6/1 от 2026-07-22: Борисоглебский Никита Маркович",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 6/1 от 2026-07-22: Борисоглебский Никита Маркович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+        "id": "moscow-oik-202-199547705ba1",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-22",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "ldpr",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Борисоглебский Никита Маркович",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1985-12-23",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 202,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "ldpr",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c202-ldpr-7ad91a8286-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c202-ldpr-7ad91a8286-registered-2026-07-22",
+        "status": "registered",
+        "effective_on": "2026-07-22",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-202-199547705ba1"
+        ],
+        "decision": {
+          "number": "6/1",
+          "decided_on": "2026-07-22",
+          "commission": "ОИК № 202"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c202-kprf-d2f0855da6",
+    "full_name": "Воробьёв Леонид Дмитриевич",
+    "birth_date": "1984-05-20",
+    "district_number": 202,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "registered",
+    "status_as_of": "2026-07-22",
+    "official_source": {
+      "title": "Решение № 6/3 от 2026-07-22: Воробьёв Леонид Дмитриевич",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 6/3 от 2026-07-22: Воробьёв Леонид Дмитриевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+        "id": "moscow-oik-202-7d07b7282e70",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-22",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "kprf",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Воробьёв Леонид Дмитриевич",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1984-05-20",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 202,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "kprf",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c202-kprf-d2f0855da6-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c202-kprf-d2f0855da6-registered-2026-07-22",
+        "status": "registered",
+        "effective_on": "2026-07-22",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-202-7d07b7282e70"
+        ],
+        "decision": {
+          "number": "6/3",
+          "decided_on": "2026-07-22",
+          "commission": "ОИК № 202"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c202-new-people-4c711bf266",
+    "full_name": "Демидов Иван Александрович",
+    "birth_date": "1995-09-06",
+    "district_number": 202,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "registered",
+    "status_as_of": "2026-07-22",
+    "official_source": {
+      "title": "Решение № 6/2 от 2026-07-22: Демидов Иван Александрович",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 6/2 от 2026-07-22: Демидов Иван Александрович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+        "id": "moscow-oik-202-193af2790499",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-22",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "new-people",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Демидов Иван Александрович",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1995-09-06",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 202,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "new-people",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c202-new-people-4c711bf266-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c202-new-people-4c711bf266-registered-2026-07-22",
+        "status": "registered",
+        "effective_on": "2026-07-22",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-202-193af2790499"
+        ],
+        "decision": {
+          "number": "6/2",
+          "decided_on": "2026-07-22",
+          "commission": "ОИК № 202"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c202-fair-russia-2a8268deb8",
+    "full_name": "Иванов Андрей Викторович",
+    "birth_date": "1986-03-15",
+    "district_number": 202,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "registered",
+    "status_as_of": "2026-07-28",
+    "official_source": {
+      "title": "Решение № 7/1 от 2026-07-28: Иванов Андрей Викторович",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 7/1 от 2026-07-28: Иванов Андрей Викторович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+        "id": "moscow-oik-202-2443a4964b91",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-28",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "fair-russia",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Иванов Андрей Викторович",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1986-03-15",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 202,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "fair-russia",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c202-fair-russia-2a8268deb8-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c202-fair-russia-2a8268deb8-registered-2026-07-28",
+        "status": "registered",
+        "effective_on": "2026-07-28",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-202-2443a4964b91"
+        ],
+        "decision": {
+          "number": "7/1",
+          "decided_on": "2026-07-28",
+          "commission": "ОИК № 202"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c202-united-russia-2a7cd4d6e8",
+    "full_name": "Нифантьев Евгений Олегович",
+    "birth_date": "1978-09-14",
+    "district_number": 202,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "registered",
+    "status_as_of": "2026-07-22",
+    "official_source": {
+      "title": "Решение № 6/4 от 2026-07-22: Нифантьев Евгений Олегович",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 6/4 от 2026-07-22: Нифантьев Евгений Олегович",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+        "id": "moscow-oik-202-327c205df7d3",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-22",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "united-russia",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Нифантьев Евгений Олегович",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1978-09-14",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 202,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "united-russia",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c202-united-russia-2a7cd4d6e8-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c202-united-russia-2a7cd4d6e8-registered-2026-07-22",
+        "status": "registered",
+        "effective_on": "2026-07-22",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-202-327c205df7d3"
+        ],
+        "decision": {
+          "number": "6/4",
+          "decided_on": "2026-07-22",
+          "commission": "ОИК № 202"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c202-yabloko-0acc86c64f",
+    "full_name": "Пархоменко Сергей Дмитриевич",
+    "birth_date": "1999-09-08",
+    "district_number": 202,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "registered",
+    "status_as_of": "2026-08-03",
+    "official_source": {
+      "title": "Решение № 8/1 от 2026-08-03: Пархоменко Сергей Дмитриевич",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 8/1 от 2026-08-03: Пархоменко Сергей Дмитриевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+        "id": "moscow-oik-202-4fe47097a511",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-08-03",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "yabloko",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Пархоменко Сергей Дмитриевич",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1999-09-08",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 202,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "yabloko",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c202-yabloko-0acc86c64f-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c202-yabloko-0acc86c64f-registered-2026-08-03",
+        "status": "registered",
+        "effective_on": "2026-08-03",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-202-4fe47097a511"
+        ],
+        "decision": {
+          "number": "8/1",
+          "decided_on": "2026-08-03",
+          "commission": "ОИК № 202"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c202-greens-e46ad251cf",
+    "full_name": "Чеботарев Павел Геннадьевич",
+    "birth_date": "1980-09-01",
+    "district_number": 202,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "registered",
+    "status_as_of": "2026-07-28",
+    "official_source": {
+      "title": "Решение № 7/3 от 2026-07-28: Чеботарев Павел Геннадьевич",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "commission_decision"
+    },
+    "synthetic": false,
+    "schema_version": 2,
+    "sources": [
+      {
+        "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+        "url": "https://declarator.org/office/view-file/219884/",
+        "id": "source-6aee758b",
+        "publisher": null,
+        "source_kind": "party_list",
+        "published_on": "2026-07-18",
+        "accessed_on": "2026-08-14",
+        "sha256": null,
+        "archived_path": null
+      },
+      {
+        "title": "Решение № 7/3 от 2026-07-28: Чеботарев Павел Геннадьевич",
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+        "id": "moscow-oik-202-2722e1ebfe9a",
+        "publisher": "Московская городская избирательная комиссия",
+        "source_kind": "commission_decision",
+        "published_on": "2026-07-28",
+        "accessed_on": "2026-08-14",
+        "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+        "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+      }
+    ],
+    "candidacy": {
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "greens",
+      "as_of": "2026-07-18",
+      "source_ids": [
+        "source-6aee758b"
+      ]
+    },
+    "facts": [
+      {
+        "field": "full_name",
+        "value": "Чеботарев Павел Геннадьевич",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "birth_date",
+        "value": "1980-09-01",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "district_number",
+        "value": 202,
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "nomination_type",
+        "value": "party",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      },
+      {
+        "field": "party_id",
+        "value": "greens",
+        "as_of": "2026-07-18",
+        "source_ids": [
+          "source-6aee758b"
+        ]
+      }
+    ],
+    "status_history": [
+      {
+        "id": "legacy-c202-greens-e46ad251cf-2026-07-18",
+        "status": "certified_list",
+        "effective_on": "2026-07-18",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "source-6aee758b"
+        ],
+        "decision": null,
+        "note": "Мигрировано из схемы v1 без изменения исходной записи"
+      },
+      {
+        "id": "status-c202-greens-e46ad251cf-registered-2026-07-28",
+        "status": "registered",
+        "effective_on": "2026-07-28",
+        "recorded_on": "2026-08-14",
+        "source_ids": [
+          "moscow-oik-202-2722e1ebfe9a"
+        ],
+        "decision": {
+          "number": "7/3",
+          "decided_on": "2026-07-28",
+          "commission": "ОИК № 202"
+        },
+        "note": "Статус подтверждён решением окружной избирательной комиссии"
+      }
+    ]
+  },
+  {
+    "id": "c203-fair-russia-050db50989",
+    "full_name": "Доможирова Ксения Валерьевна",
+    "birth_date": "1988-08-24",
+    "district_number": 203,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c203-ldpr-dd537d6025",
+    "full_name": "Курбаков Иван Александрович",
+    "birth_date": "1991-12-06",
+    "district_number": 203,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c203-yabloko-cd9f3f3e0d",
+    "full_name": "Макаров Максим Владиславович",
+    "birth_date": "1999-09-23",
+    "district_number": 203,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c203-communists-russia-2da79b9f78",
+    "full_name": "Мысив Олеся Вячеславовна",
+    "birth_date": "1985-04-26",
+    "district_number": 203,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c203-kprf-83b4eb6997",
+    "full_name": "Мысина Вера Александровна",
+    "birth_date": "1979-09-20",
+    "district_number": 203,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c203-new-people-5693148b66",
+    "full_name": "Шатуновская-Бюрно Анна Геннадиевна",
+    "birth_date": "1974-07-12",
+    "district_number": 203,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c203-united-russia-1deeecdbec",
+    "full_name": "Шонов Эдуард Олегович",
+    "birth_date": "1991-12-31",
+    "district_number": 203,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c204-greens-dd1964e0f6",
+    "full_name": "Азарова Анастасия Федоровна",
+    "birth_date": "2000-05-13",
+    "district_number": 204,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c204-fair-russia-0d9251ce20",
+    "full_name": "Баранов Игорь Павлович",
+    "birth_date": "1982-10-03",
+    "district_number": 204,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c204-ldpr-125f0b71bd",
+    "full_name": "Воронин Всеволод Михайлович",
+    "birth_date": "1981-09-11",
+    "district_number": 204,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c204-new-people-4135a4ee5d",
+    "full_name": "Воронин Дмитрий Валерьевич",
+    "birth_date": "1983-02-18",
+    "district_number": 204,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c204-kprf-b2fb840321",
+    "full_name": "Медведев Дмитрий Леонидович",
+    "birth_date": "1979-07-27",
+    "district_number": 204,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c204-united-russia-417d409120",
+    "full_name": "Третьяк Владислав Александрович",
+    "birth_date": "1952-04-25",
+    "district_number": 204,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "biography": [{
+      "id": "duma-role-2026", "field": "current_role",
+      "value": "Депутат Государственной Думы восьмого созыва; член Комитета по физической культуре и спорту",
+      "as_of": "2026-08-14",
+      "evidence": { "publisher": "Государственная Дума Федерального Собрания Российской Федерации", "source_url": "https://duma.gov.ru/duma/persons/99109957/", "source_class": "government_official", "quality_tier": "primary_official", "published_on": null, "accessed_on": "2026-08-14" }
+    }],
+    "contacts": [],
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c204-yabloko-1512af454f",
+    "full_name": "Шатуновская-Бюрно Анна Геннадиевна",
+    "birth_date": "1974-07-12",
+    "district_number": 204,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c204-direct-democracy-1513cb4671",
+    "full_name": "Яцкевич Татьяна Сергеевна",
+    "birth_date": "1983-06-08",
+    "district_number": 204,
+    "nomination_type": "party",
+    "party_id": "direct-democracy",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c205-greens-6f8bc0c4a2",
+    "full_name": "Агранат Аркадий Борисович",
+    "birth_date": "1971-11-21",
+    "district_number": 205,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c205-yabloko-a659747f9a",
+    "full_name": "Биктуганов Евгений Вячеславович",
+    "birth_date": "2000-10-29",
+    "district_number": 205,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c205-direct-democracy-753baf996f",
+    "full_name": "Гончаров Геннадий Анатольевич",
+    "birth_date": "1977-05-16",
+    "district_number": 205,
+    "nomination_type": "party",
+    "party_id": "direct-democracy",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c205-kprf-8dd906750a",
+    "full_name": "Ищенко Александр Алексеевич",
+    "birth_date": "1985-11-13",
+    "district_number": 205,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c205-communists-russia-8c6cc374b8",
+    "full_name": "Ищук Александр Михайлович",
+    "birth_date": "1979-09-23",
+    "district_number": 205,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c205-united-russia-6de5b8b1eb",
+    "full_name": "Казымов Эдуард Иванович",
+    "birth_date": "1995-08-12",
+    "district_number": 205,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c205-fair-russia-527d067731",
+    "full_name": "Кислицкий Михаил Михайлович",
+    "birth_date": "1985-02-16",
+    "district_number": 205,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c205-ldpr-b02f864a95",
+    "full_name": "Лесняк Дмитрий Анатольевич",
+    "birth_date": "1994-06-08",
+    "district_number": 205,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c205-new-people-8341435070",
+    "full_name": "Снеговский Артём Юрьевич",
+    "birth_date": "2004-02-09",
+    "district_number": 205,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c206-fair-russia-a93441d73c",
+    "full_name": "Алейникова Виктория Викторовна",
+    "birth_date": "1979-09-10",
+    "district_number": 206,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c206-united-russia-7689043643",
+    "full_name": "Асафов Александр Николаевич",
+    "birth_date": "1977-10-07",
+    "district_number": 206,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c206-greens-609a55c682",
+    "full_name": "Буглаева Анна Игоревна",
+    "birth_date": "1987-04-12",
+    "district_number": 206,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c206-direct-democracy-9c35aaa6c5",
+    "full_name": "Калинина Мария Сергеевна",
+    "birth_date": "2003-03-13",
+    "district_number": 206,
+    "nomination_type": "party",
+    "party_id": "direct-democracy",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c206-yabloko-a5aad6610b",
+    "full_name": "Коган-Ясный Виктор Валентинович",
+    "birth_date": "1959-08-07",
+    "district_number": 206,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c206-ldpr-9116236749",
+    "full_name": "Орионов Валентин Валерьевич",
+    "birth_date": "1981-07-10",
+    "district_number": 206,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c206-communists-russia-aef940990a",
+    "full_name": "Ульянов Сергей Александрович",
+    "birth_date": "1984-01-21",
+    "district_number": 206,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c206-kprf-8037528eb9",
+    "full_name": "Ульянченко Иван Викторович",
+    "birth_date": "1986-06-29",
+    "district_number": 206,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c206-new-people-06c994e426",
+    "full_name": "Чвыров Сергей Владимирович",
+    "birth_date": "1968-09-14",
+    "district_number": 206,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c207-kprf-1fa4bffffb",
+    "full_name": "Воронков Андрей Олегович",
+    "birth_date": "1962-02-26",
+    "district_number": 207,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c207-ldpr-d594bcbb16",
+    "full_name": "Крастелев Роман Евгеньевич",
+    "birth_date": "1983-03-30",
+    "district_number": 207,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c207-united-russia-54c16144cb",
+    "full_name": "Леонов Олег Алексеевич",
+    "birth_date": "1979-04-28",
+    "district_number": 207,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c207-greens-c2833d92b7",
+    "full_name": "Лойе Ирина Анатольевна",
+    "birth_date": "1971-09-19",
+    "district_number": 207,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c207-yabloko-c4a1644dec",
+    "full_name": "Митрохин Сергей Сергеевич",
+    "birth_date": "1963-05-20",
+    "district_number": 207,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c207-fair-russia-2690fa66ea",
+    "full_name": "Свиридов Илья Тимурович",
+    "birth_date": "1980-12-24",
+    "district_number": 207,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c207-direct-democracy-52d88be97b",
+    "full_name": "Семененко Виталий Владимирович",
+    "birth_date": "1986-01-22",
+    "district_number": 207,
+    "nomination_type": "party",
+    "party_id": "direct-democracy",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c207-new-people-f40980028a",
+    "full_name": "Чуприна Мария Германовна",
+    "birth_date": "1989-08-02",
+    "district_number": 207,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c207-communists-russia-ff786e74f6",
+    "full_name": "Штефан Павел Дмитриевич",
+    "birth_date": "1999-05-26",
+    "district_number": 207,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c208-communists-russia-4be3270296",
+    "full_name": "Абаимов Сергей Степанович",
+    "birth_date": "1965-09-13",
+    "district_number": 208,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c208-kprf-5f74aa26a9",
+    "full_name": "Кондратенко Александр Евгеньевич",
+    "birth_date": "1975-07-02",
+    "district_number": 208,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c208-united-russia-8dc4f2669a",
+    "full_name": "Назаров Дмитрий Александрович",
+    "birth_date": "1973-10-13",
+    "district_number": 208,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c208-ldpr-c649c6c8cf",
+    "full_name": "Нестеренко Андрей Александрович",
+    "birth_date": "1976-09-07",
+    "district_number": 208,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c208-yabloko-4da9a5a152",
+    "full_name": "Смирнов Алексей Олегович",
+    "birth_date": "1951-02-02",
+    "district_number": 208,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c208-fair-russia-f00333cb72",
+    "full_name": "Чирков Максим Андреевич",
+    "birth_date": "1980-08-11",
+    "district_number": 208,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c208-new-people-6e63658ad4",
+    "full_name": "Шейн Юрий Карлович",
+    "birth_date": "1952-04-20",
+    "district_number": 208,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c208-greens-f34d06f50d",
+    "full_name": "Юдин Лев Игоревич",
+    "birth_date": "1983-07-05",
+    "district_number": 208,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c209-greens-c56c66539f",
+    "full_name": "Афанасьева Анастасия Андреевна",
+    "birth_date": "1987-04-02",
+    "district_number": 209,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c209-communists-russia-1b2992ba00",
+    "full_name": "Баскова Елена Витальевна",
+    "birth_date": "1975-01-02",
+    "district_number": 209,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c209-kprf-6bf0e9a6a2",
+    "full_name": "Ганзя Вера Анатольевна",
+    "birth_date": "1959-04-28",
+    "district_number": 209,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c209-new-people-a4fe8c33d9",
+    "full_name": "Гришин Григорий Александрович",
+    "birth_date": "1980-12-19",
+    "district_number": 209,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c209-yabloko-099d0da57f",
+    "full_name": "Жилин Игорь Николаевич",
+    "birth_date": "1962-08-29",
+    "district_number": 209,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c209-ldpr-340c4c9d5b",
+    "full_name": "Коськов Егор Сергеевич",
+    "birth_date": "1990-07-23",
+    "district_number": 209,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c209-fair-russia-959964f71d",
+    "full_name": "Нагаев Юрий Викторович",
+    "birth_date": "1970-05-06",
+    "district_number": 209,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c209-united-russia-ab0a5f4bb6",
+    "full_name": "Романенко Роман Юрьевич",
+    "birth_date": "1971-08-09",
+    "district_number": 209,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c210-united-russia-0253247cdb",
+    "full_name": "Андриенко Евгений Витальевич",
+    "birth_date": "1974-07-28",
+    "district_number": 210,
+    "nomination_type": "party",
+    "party_id": "united-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c210-greens-7f3ffc8a59",
+    "full_name": "Забатурина Ольга Ивановна",
+    "birth_date": "1989-04-08",
+    "district_number": 210,
+    "nomination_type": "party",
+    "party_id": "greens",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c210-communists-russia-6ba4486f87",
+    "full_name": "Лобанов Владимир Викторович",
+    "birth_date": "1978-09-16",
+    "district_number": 210,
+    "nomination_type": "party",
+    "party_id": "communists-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c210-yabloko-bf26526865",
+    "full_name": "Рамазанова Марижат Курбановна",
+    "birth_date": "1998-06-04",
+    "district_number": 210,
+    "nomination_type": "party",
+    "party_id": "yabloko",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c210-new-people-f4aeb47a69",
+    "full_name": "Родькина Ирина Николаевна",
+    "birth_date": "1980-11-12",
+    "district_number": 210,
+    "nomination_type": "party",
+    "party_id": "new-people",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c210-fair-russia-8094480f5b",
+    "full_name": "Рыжак Константин Николаевич",
+    "birth_date": "1982-05-18",
+    "district_number": 210,
+    "nomination_type": "party",
+    "party_id": "fair-russia",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c210-ldpr-a3e04fee06",
+    "full_name": "Спирин Борис Евгеньевич",
+    "birth_date": "1999-06-17",
+    "district_number": 210,
+    "nomination_type": "party",
+    "party_id": "ldpr",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  },
+  {
+    "id": "c210-kprf-45683791ef",
+    "full_name": "Суханов Игорь Владимирович",
+    "birth_date": "1964-05-18",
+    "district_number": 210,
+    "nomination_type": "party",
+    "party_id": "kprf",
+    "status": "certified_list",
+    "status_as_of": "2026-07-18",
+    "official_source": {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам (срез на 18.07.2026; опубликованная копия документа)",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "accessed_at": "2026-08-14",
+      "source_kind": "party_list"
+    },
+    "synthetic": false
+  }
+]

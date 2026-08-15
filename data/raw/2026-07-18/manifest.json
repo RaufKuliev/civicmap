@@ -1,0 +1,26 @@
+{
+  "dataset_kind": "official",
+  "generated_at": "2026-08-14",
+  "note": "Промежуточный срез заверенных партийных списков. Не является окончательным перечнем зарегистрированных кандидатов.",
+  "source": {
+    "file": "../2026-08-14/sources/candidates-nominated-2026-07-18.docx",
+    "sha256": "f8aa80703632e56269513d14412c94ef146b39a2ff3a6b36da63c8e9dbdfa436"
+  },
+  "sources": [
+    {
+      "file": "../2026-08-14/sources/candidates-nominated-2026-07-18.docx",
+      "sha256": "f8aa80703632e56269513d14412c94ef146b39a2ff3a6b36da63c8e9dbdfa436",
+      "url": "https://declarator.org/office/view-file/219884/"
+    },
+    {
+      "file": "../2026-08-14/sources/districts-107fz.docx",
+      "sha256": "5d56a3fa240006d846afb7b3d7bdf97df8cbff2a45d66d937156ef341f584d29",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    {
+      "file": "../2026-08-14/sources/ne_10m_admin_1_states_provinces.geojson",
+      "sha256": "22d0e3ad85eb3e27f17cabf8ba2d50e554fbc27a87796ff891d958185da62fb5",
+      "url": "https://github.com/nvkelso/natural-earth-vector"
+    }
+  ]
+}

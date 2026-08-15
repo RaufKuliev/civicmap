@@ -1,0 +1,26 @@
+[
+  {
+    "number": 110,
+    "name": "Курская область – Курский",
+    "territory_description": "Курская область – Курский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Курской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 111,
+    "name": "Курская область – Сеймский",
+    "territory_description": "Курская область – Сеймский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Курской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

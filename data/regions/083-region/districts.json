@@ -1,0 +1,98 @@
+[
+  {
+    "number": 211,
+    "name": "Город Санкт-Петербург – Восточный",
+    "territory_description": "Город Санкт-Петербург – Восточный одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия № 50",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 212,
+    "name": "Город Санкт-Петербург – Западный",
+    "territory_description": "Город Санкт-Петербург – Западный одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия № 6",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 213,
+    "name": "Город Санкт-Петербург – Северный",
+    "territory_description": "Город Санкт-Петербург – Северный одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия № 35",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 214,
+    "name": "Город Санкт-Петербург – Северо-Восточный",
+    "territory_description": "Город Санкт-Петербург – Северо-Восточный одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия № 39",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 215,
+    "name": "Город Санкт-Петербург – Северо-Западный",
+    "territory_description": "Город Санкт-Петербург – Северо-Западный одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия № 58",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 216,
+    "name": "Город Санкт-Петербург – Центральный",
+    "territory_description": "Город Санкт-Петербург – Центральный одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия № 33",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 217,
+    "name": "Город Санкт-Петербург – Юго-Восточный",
+    "territory_description": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия № 23",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 218,
+    "name": "Город Санкт-Петербург – Южный",
+    "territory_description": "Город Санкт-Петербург – Южный одномандатный избирательный округ",
+    "electoral_commission": "Территориальная избирательная комиссия № 27",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

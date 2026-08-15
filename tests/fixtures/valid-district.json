@@ -1,0 +1,12 @@
+{
+  "number": 225,
+  "name": "Тестовый одномандатный округ",
+  "territory_description": "Тестовая территория, сохранённая как официальное описание округа.",
+  "electoral_commission": null,
+  "official_source": {
+    "title": "Официальный источник",
+    "url": "https://example.org/district"
+  },
+  "geometry_status": "not_published",
+  "data_as_of": "2026-08-14"
+}

@@ -1,0 +1,1384 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-14",
+  "source_descriptions": 225,
+  "structured": 225,
+  "review_required": 225,
+  "warning_counts": {
+    "source_contains_district_name_not_boundary_composition": 225,
+    "directional_label_requires_boundary_source": 21
+  },
+  "districts": [
+    {
+      "district_number": 1,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 2,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 3,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 4,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 5,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 6,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 7,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 8,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 9,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 10,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 11,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 12,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 13,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 14,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 15,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 16,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 17,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 18,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 19,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 20,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 21,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 22,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 23,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 24,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 25,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 26,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 27,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 28,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 29,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 30,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 31,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 32,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 33,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 34,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 35,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 36,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 37,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 38,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 39,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 40,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 41,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 42,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 43,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 44,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 45,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 46,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 47,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 48,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 49,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 50,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 51,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 52,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 53,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 54,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 55,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 56,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 57,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 58,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 59,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 60,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 61,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 62,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 63,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 64,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 65,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 66,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 67,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 68,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 69,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 70,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 71,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 72,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 73,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 74,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 75,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 76,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 77,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 78,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 79,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 80,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 81,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 82,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 83,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 84,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 85,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 86,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 87,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 88,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 89,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 90,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 91,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 92,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 93,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 94,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 95,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 96,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 97,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 98,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 99,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 100,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 101,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 102,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 103,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 104,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 105,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 106,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 107,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 108,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 109,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 110,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 111,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 112,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 113,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 114,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 115,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 116,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 117,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 118,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 119,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 120,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 121,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 122,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 123,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 124,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 125,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 126,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 127,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 128,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 129,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 130,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 131,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 132,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 133,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 134,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 135,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 136,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 137,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 138,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 139,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 140,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 141,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 142,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 143,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 144,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 145,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 146,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 147,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 148,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 149,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 150,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 151,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 152,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 153,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 154,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 155,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 156,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 157,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 158,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 159,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 160,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 161,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 162,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 163,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 164,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 165,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 166,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 167,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 168,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 169,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 170,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 171,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 172,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 173,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 174,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 175,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 176,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 177,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 178,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 179,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 180,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 181,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 182,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 183,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 184,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 185,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 186,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 187,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 188,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 189,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 190,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 191,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 192,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 193,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 194,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 195,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 196,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 197,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 198,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 199,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 200,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 201,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 202,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 203,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 204,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 205,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 206,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 207,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 208,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 209,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 210,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 211,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 212,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 213,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 214,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 215,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 216,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 217,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 218,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition",
+        "directional_label_requires_boundary_source"
+      ]
+    },
+    {
+      "district_number": 219,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 220,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 221,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 222,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 223,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 224,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    },
+    {
+      "district_number": 225,
+      "warnings": [
+        "source_contains_district_name_not_boundary_composition"
+      ]
+    }
+  ]
+}

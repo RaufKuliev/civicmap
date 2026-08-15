@@ -1,0 +1,23 @@
+name: Ошибка сайта
+description: Сообщить о воспроизводимой технической проблеме
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL страницы
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Шаги воспроизведения
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Ожидаемое и фактическое поведение
+    validations:
+      required: true

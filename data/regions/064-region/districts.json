@@ -1,0 +1,26 @@
+[
+  {
+    "number": 148,
+    "name": "Пензенская область – Пензенский",
+    "territory_description": "Пензенская область – Пензенский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Пензенской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 149,
+    "name": "Пензенская область – Лермонтовский",
+    "territory_description": "Пензенская область – Лермонтовский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Пензенской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

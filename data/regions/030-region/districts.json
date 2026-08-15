@@ -1,0 +1,50 @@
+[
+  {
+    "number": 62,
+    "name": "Пермский край – Пермский",
+    "territory_description": "Пермский край – Пермский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Пермского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 63,
+    "name": "Пермский край – Чусовской",
+    "territory_description": "Пермский край – Чусовской одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Пермского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 64,
+    "name": "Пермский край – Кунгурский",
+    "territory_description": "Пермский край – Кунгурский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Пермского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 65,
+    "name": "Пермский край – Кудымкарский",
+    "territory_description": "Пермский край – Кудымкарский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Пермского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

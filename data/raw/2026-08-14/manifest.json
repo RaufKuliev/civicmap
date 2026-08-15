@@ -1,0 +1,9 @@
+{
+  "dataset_kind": "synthetic",
+  "observed_at": "2026-08-14",
+  "normalized_at": "2026-08-14",
+  "parser": "fixture-json",
+  "parser_version": "0.1.0",
+  "source": { "type": "fixture", "title": "Synthetic demonstration dataset", "url": null, "sha256": null },
+  "region_ids": ["77-moscow", "78-saint-petersburg", "16-tatarstan"]
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "snapshot_id": "duma-2026-2026-08-14",
+  "election_id": "duma-2026",
+  "as_of": "2026-08-14",
+  "created_on": "2026-08-14",
+  "dataset_kind": "official",
+  "predecessor_snapshot_id": "duma-2026-2026-07-18",
+  "sources": [
+    {
+      "title": "Заверенные ЦИК России партийные списки по одномандатным округам",
+      "url": "https://declarator.org/office/view-file/219884/",
+      "id": "cik-party-lists-2026-07-18",
+      "publisher": "ЦИК России; опубликованная копия документа",
+      "source_kind": "party_list",
+      "published_on": "2026-07-18",
+      "accessed_on": "2026-08-14",
+      "sha256": "f8aa80703632e56269513d14412c94ef146b39a2ff3a6b36da63c8e9dbdfa436",
+      "archived_path": "data/raw/2026-08-14/sources/candidates-nominated-2026-07-18.docx"
+    },
+    {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и схема округов",
+      "url": "https://government.ru/docs/all/159107/",
+      "id": "federal-law-107-fz",
+      "publisher": "Правительство России",
+      "source_kind": "official_document",
+      "published_on": "2025-05-23",
+      "accessed_on": "2026-08-14",
+      "sha256": "5d56a3fa240006d846afb7b3d7bdf97df8cbff2a45d66d937156ef341f584d29",
+      "archived_path": "data/raw/2026-08-14/sources/districts-107fz.docx"
+    },
+    {
+      "title": "Natural Earth Admin 1 states and provinces",
+      "url": "https://github.com/nvkelso/natural-earth-vector",
+      "id": "natural-earth-admin-1",
+      "publisher": "Natural Earth",
+      "source_kind": "official_document",
+      "published_on": null,
+      "accessed_on": "2026-08-14",
+      "sha256": "22d0e3ad85eb3e27f17cabf8ba2d50e554fbc27a87796ff891d958185da62fb5",
+      "archived_path": null
+    },
+    {
+      "title": "Решения окружной избирательной комиссии по одномандатному округу № 201",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "id": "moscow-oik-201",
+      "publisher": "Московская городская избирательная комиссия",
+      "source_kind": "commission_decision",
+      "published_on": null,
+      "accessed_on": "2026-08-14",
+      "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+      "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+    },
+    {
+      "title": "Решения окружной избирательной комиссии по одномандатному округу № 202",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "id": "moscow-oik-202",
+      "publisher": "Московская городская избирательная комиссия",
+      "source_kind": "commission_decision",
+      "published_on": null,
+      "accessed_on": "2026-08-14",
+      "sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+      "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json"
+    }
+  ],
+  "record_counts": {
+    "regions": 89,
+    "districts": 225,
+    "candidates": 1670
+  }
+}

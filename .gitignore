@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+coverage/
+playwright-report/
+test-results/
+*.log
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.supergoal/
+.DS_Store
+
+# Reproducibly downloaded by `pnpm data:fetch:map`; checksum is pinned in the script.
+data/raw/2026-08-14/sources/ne_10m_admin_1_states_provinces.geojson

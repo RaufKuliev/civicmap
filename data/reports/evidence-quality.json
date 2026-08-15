@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-08-14",
+  "records_checked": 10,
+  "issue_counts": {
+    "duplicate_url": 0,
+    "invalid_url": 0,
+    "stale_item": 0
+  },
+  "issues": []
+}

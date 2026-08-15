@@ -1,0 +1,12 @@
+{
+  "github_owner": "RaufKuliev",
+  "repository": "civicmap",
+  "license": "AGPL-3.0-only",
+  "security_contact": null,
+  "editorial_contact": null,
+  "source_terms_reviewed": false,
+  "pages_enabled": false,
+  "deployment_guard_removed": true,
+  "custom_domain_decision": null,
+  "geocoder_policy_reviewed": false
+}

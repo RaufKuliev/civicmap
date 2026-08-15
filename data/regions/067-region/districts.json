@@ -1,0 +1,26 @@
+[
+  {
+    "number": 157,
+    "name": "Рязанская область – Рязанский",
+    "territory_description": "Рязанская область – Рязанский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Рязанской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 158,
+    "name": "Рязанская область – Скопинский",
+    "territory_description": "Рязанская область – Скопинский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Рязанской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

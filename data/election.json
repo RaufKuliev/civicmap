@@ -1,0 +1,10 @@
+{
+  "title": "Выборы депутатов Государственной Думы девятого созыва",
+  "election_date": "2026-09-20",
+  "data_as_of": "2026-07-18",
+  "candidate_status_as_of": "2026-08-14",
+  "dataset_kind": "official",
+  "expected_district_count": 225,
+  "real_release_district_count": 225,
+  "methodology_version": "0.2.0"
+}

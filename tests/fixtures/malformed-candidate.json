@@ -1,0 +1,17 @@
+{
+  "id": "candidate-fixture-invalid",
+  "full_name": "Иванов Иван Иванович",
+  "birth_date": null,
+  "district_number": 225,
+  "nomination_type": "self",
+  "party_id": "party-must-not-be-here",
+  "status": "registered",
+  "status_as_of": "2026-08-14",
+  "official_source": {
+    "title": "Партийный список не подтверждает регистрацию",
+    "url": "https://example.org/invalid",
+    "accessed_at": "2026-08-14",
+    "source_kind": "party_list"
+  },
+  "synthetic": false
+}

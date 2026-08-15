@@ -1,0 +1,17 @@
+{
+  "id": "candidate-fixture-1",
+  "full_name": "Иванов Иван Иванович",
+  "birth_date": "1980-01-02",
+  "district_number": 225,
+  "nomination_type": "party",
+  "party_id": "fixture-party",
+  "status": "certified_list",
+  "status_as_of": "2026-07-18",
+  "official_source": {
+    "title": "Заверенный партийный список",
+    "url": "https://example.org/candidate",
+    "accessed_at": "2026-08-14",
+    "source_kind": "party_list"
+  },
+  "synthetic": false
+}

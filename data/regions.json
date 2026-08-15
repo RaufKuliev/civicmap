@@ -1,0 +1,625 @@
+[
+  {
+    "id": "001-region",
+    "name": "Республика Адыгея",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "002-region",
+    "name": "Республика Алтай",
+    "federal_district": "Сибирский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "003-region",
+    "name": "Республика Башкортостан",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 6,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "004-region",
+    "name": "Республика Бурятия",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "005-region",
+    "name": "Республика Дагестан",
+    "federal_district": "Северо-Кавказский федеральный округ",
+    "district_count": 3,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "006-region",
+    "name": "Донецкая Народная Республика",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 3,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "007-region",
+    "name": "Республика Ингушетия",
+    "federal_district": "Северо-Кавказский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "008-region",
+    "name": "Кабардино-Балкарская Республика",
+    "federal_district": "Северо-Кавказский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "009-region",
+    "name": "Республика Калмыкия",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "010-region",
+    "name": "Карачаево-Черкесская Республика",
+    "federal_district": "Северо-Кавказский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "011-region",
+    "name": "Республика Карелия",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "012-region",
+    "name": "Республика Коми",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "013-region",
+    "name": "Республика Крым",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 3,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "014-region",
+    "name": "Луганская Народная Республика",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "015-region",
+    "name": "Республика Марий Эл",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "016-region",
+    "name": "Республика Мордовия",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "017-region",
+    "name": "Республика Саха (Якутия)",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "018-region",
+    "name": "Республика Северная Осетия-Алания",
+    "federal_district": "Северо-Кавказский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "019-region",
+    "name": "Республика Татарстан",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 6,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "020-region",
+    "name": "Республика Тыва",
+    "federal_district": "Сибирский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "021-region",
+    "name": "Удмуртская Республика",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "022-region",
+    "name": "Республика Хакасия",
+    "federal_district": "Сибирский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "023-region",
+    "name": "Чеченская Республика",
+    "federal_district": "Северо-Кавказский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "024-region",
+    "name": "Чувашская Республика",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "025-region",
+    "name": "Алтайский край",
+    "federal_district": "Сибирский федеральный округ",
+    "district_count": 3,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "026-region",
+    "name": "Забайкальский край",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "027-region",
+    "name": "Камчатский край",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "028-region",
+    "name": "Краснодарский край",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 9,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "029-region",
+    "name": "Красноярский край",
+    "federal_district": "Сибирский федеральный округ",
+    "district_count": 4,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "030-region",
+    "name": "Пермский край",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 4,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "031-region",
+    "name": "Приморский край",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 3,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "032-region",
+    "name": "Ставропольский край",
+    "federal_district": "Северо-Кавказский федеральный округ",
+    "district_count": 4,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "033-region",
+    "name": "Хабаровский край",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "034-region",
+    "name": "Амурская область",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "035-region",
+    "name": "Архангельская область",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "036-region",
+    "name": "Астраханская область",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "037-region",
+    "name": "Белгородская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "038-region",
+    "name": "Брянская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "039-region",
+    "name": "Владимирская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "040-region",
+    "name": "Волгоградская область",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 3,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "041-region",
+    "name": "Вологодская область",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "042-region",
+    "name": "Воронежская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 3,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "043-region",
+    "name": "Запорожская область",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "044-region",
+    "name": "Ивановская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "045-region",
+    "name": "Иркутская область",
+    "federal_district": "Сибирский федеральный округ",
+    "district_count": 4,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "046-region",
+    "name": "Калининградская область",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "047-region",
+    "name": "Калужская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "048-region",
+    "name": "Кемеровская область – Кузбасс",
+    "federal_district": "Сибирский федеральный округ",
+    "district_count": 4,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "049-region",
+    "name": "Кировская область",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "050-region",
+    "name": "Костромская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "051-region",
+    "name": "Курганская область",
+    "federal_district": "Уральский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "052-region",
+    "name": "Курская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "053-region",
+    "name": "Ленинградская область",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 3,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "054-region",
+    "name": "Липецкая область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "055-region",
+    "name": "Магаданская область",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "056-region",
+    "name": "Московская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 12,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "057-region",
+    "name": "Мурманская область",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "058-region",
+    "name": "Нижегородская область",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 5,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "059-region",
+    "name": "Новгородская область",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "060-region",
+    "name": "Новосибирская область",
+    "federal_district": "Сибирский федеральный округ",
+    "district_count": 4,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "061-region",
+    "name": "Омская область",
+    "federal_district": "Сибирский федеральный округ",
+    "district_count": 3,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "062-region",
+    "name": "Оренбургская область",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 3,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "063-region",
+    "name": "Орловская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "064-region",
+    "name": "Пензенская область",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "065-region",
+    "name": "Псковская область",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "066-region",
+    "name": "Ростовская область",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 6,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "067-region",
+    "name": "Рязанская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "068-region",
+    "name": "Самарская область",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 5,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "069-region",
+    "name": "Саратовская область",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 4,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "070-region",
+    "name": "Сахалинская область",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "071-region",
+    "name": "Свердловская область",
+    "federal_district": "Уральский федеральный округ",
+    "district_count": 7,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "072-region",
+    "name": "Смоленская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "073-region",
+    "name": "Тамбовская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "074-region",
+    "name": "Тверская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "075-region",
+    "name": "Томская область",
+    "federal_district": "Сибирский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "076-region",
+    "name": "Тульская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "077-region",
+    "name": "Тюменская область",
+    "federal_district": "Уральский федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "078-region",
+    "name": "Ульяновская область",
+    "federal_district": "Приволжский федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "079-region",
+    "name": "Херсонская область",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "080-region",
+    "name": "Челябинская область",
+    "federal_district": "Уральский федеральный округ",
+    "district_count": 5,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "081-region",
+    "name": "Ярославская область",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "082-region",
+    "name": "Город Москва",
+    "federal_district": "Центральный федеральный округ",
+    "district_count": 16,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "083-region",
+    "name": "Город Санкт-Петербург",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 8,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "084-region",
+    "name": "Город Севастополь",
+    "federal_district": "Южный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "085-region",
+    "name": "Еврейская автономная область",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "086-region",
+    "name": "Ненецкий автономный округ",
+    "federal_district": "Северо-Западный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "087-region",
+    "name": "Ханты-Мансийский автономный округ",
+    "federal_district": "Уральский федеральный округ",
+    "district_count": 2,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "088-region",
+    "name": "Чукотский автономный округ",
+    "federal_district": "Дальневосточный федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "id": "089-region",
+    "name": "Ямало-Ненецкий автономный округ",
+    "federal_district": "Уральский федеральный округ",
+    "district_count": 1,
+    "data_as_of": "2026-08-14"
+  }
+]

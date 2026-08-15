@@ -1,0 +1,38 @@
+[
+  {
+    "number": 44,
+    "name": "Алтайский край – Барнаульский",
+    "territory_description": "Алтайский край – Барнаульский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Алтайского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 45,
+    "name": "Алтайский край – Бийский",
+    "territory_description": "Алтайский край – Бийский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Алтайского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 46,
+    "name": "Алтайский край – Славгородский",
+    "territory_description": "Алтайский край – Славгородский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Алтайского края",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

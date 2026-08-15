@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fixture_id": "moscow-oik-201-202-2026-08-14",
+  "observed_on": "2026-08-14",
+  "acquisition": "manual_transcription_verified",
+  "fixture_sha256": "4beff9c9dba2165ebe9e2b7639ce581973f200961bc32491d3490fa2d5970fa3",
+  "archived_path": "data/raw/2026-08-14/official/moscow-oik-201-202.json",
+  "mode": "offline-replay",
+  "records": 16,
+  "changed": 16,
+  "created": 0,
+  "unchanged": 0,
+  "touched_files": [
+    "data/regions/082-region/candidates.json"
+  ],
+  "before_sha256": {
+    "data/regions/082-region/candidates.json": "2b30845eee729c6c634583cb7bbdf4ed75a7d6462e5722a4a525b0215174c460"
+  },
+  "after_sha256": {
+    "data/regions/082-region/candidates.json": "e0d65bb8835dd2cbab556e3db1ce4ff2a592fb3ce087dfd049d1f636911f4386"
+  },
+  "imported_status_counts": {
+    "nominated": 0,
+    "certified_list": 0,
+    "registered": 16,
+    "registration_denied": 0,
+    "registration_cancelled": 0,
+    "withdrawn": 0,
+    "lost_status": 0,
+    "elected": 0,
+    "not_elected": 0,
+    "status_pending_verification": 0
+  },
+  "applied": true
+}

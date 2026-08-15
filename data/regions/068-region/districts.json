@@ -1,0 +1,62 @@
+[
+  {
+    "number": 159,
+    "name": "Самарская область – Самарский",
+    "territory_description": "Самарская область – Самарский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Самарской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 160,
+    "name": "Самарская область – Тольяттинский",
+    "territory_description": "Самарская область – Тольяттинский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Самарской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 161,
+    "name": "Самарская область – Красноглинский",
+    "territory_description": "Самарская область – Красноглинский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Самарской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 162,
+    "name": "Самарская область – Жигулевский",
+    "territory_description": "Самарская область – Жигулевский одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Самарской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  },
+  {
+    "number": 163,
+    "name": "Самарская область – Промышленный",
+    "territory_description": "Самарская область – Промышленный одномандатный избирательный округ",
+    "electoral_commission": "Избирательная комиссия Самарской области",
+    "official_source": {
+      "title": "Федеральный закон от 23.05.2025 № 107-ФЗ и приложение со схемой 225 округов",
+      "url": "https://government.ru/docs/all/159107/"
+    },
+    "geometry_status": "not_published",
+    "data_as_of": "2026-08-14"
+  }
+]

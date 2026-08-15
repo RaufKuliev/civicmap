@@ -1,0 +1,2477 @@
+[
+  {
+    "district_id": "district-1",
+    "district_number": 1,
+    "region_id": "001-region",
+    "terms": [
+      "республика адыгея адыгея адыгейский одномандатный избирательный округ",
+      "республика адыгея",
+      "адыгейский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-2",
+    "district_number": 2,
+    "region_id": "002-region",
+    "terms": [
+      "республика алтай алтайский одномандатный избирательный округ",
+      "республика алтай",
+      "алтайский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-3",
+    "district_number": 3,
+    "region_id": "003-region",
+    "terms": [
+      "республика башкортостан уфимский одномандатный избирательный округ",
+      "республика башкортостан",
+      "уфимский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-4",
+    "district_number": 4,
+    "region_id": "003-region",
+    "terms": [
+      "республика башкортостан благовещенский одномандатный избирательный округ",
+      "республика башкортостан",
+      "благовещенский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-5",
+    "district_number": 5,
+    "region_id": "003-region",
+    "terms": [
+      "республика башкортостан белорецкий одномандатный избирательный округ",
+      "республика башкортостан",
+      "белорецкий"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-6",
+    "district_number": 6,
+    "region_id": "003-region",
+    "terms": [
+      "республика башкортостан нефтекамский одномандатный избирательный округ",
+      "республика башкортостан",
+      "нефтекамский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-7",
+    "district_number": 7,
+    "region_id": "003-region",
+    "terms": [
+      "республика башкортостан салаватский одномандатный избирательный округ",
+      "республика башкортостан",
+      "салаватский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-8",
+    "district_number": 8,
+    "region_id": "003-region",
+    "terms": [
+      "республика башкортостан стерлитамакский одномандатный избирательный округ",
+      "республика башкортостан",
+      "стерлитамакский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-9",
+    "district_number": 9,
+    "region_id": "004-region",
+    "terms": [
+      "республика бурятия бурятский одномандатный избирательный округ",
+      "республика бурятия",
+      "бурятский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-10",
+    "district_number": 10,
+    "region_id": "005-region",
+    "terms": [
+      "республика дагестан махачкалинский одномандатный избирательный округ",
+      "республика дагестан",
+      "махачкалинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-11",
+    "district_number": 11,
+    "region_id": "005-region",
+    "terms": [
+      "республика дагестан буйнакский одномандатный избирательный округ",
+      "республика дагестан",
+      "буйнакский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-12",
+    "district_number": 12,
+    "region_id": "005-region",
+    "terms": [
+      "республика дагестан дербентский одномандатный избирательный округ",
+      "республика дагестан",
+      "дербентский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-13",
+    "district_number": 13,
+    "region_id": "006-region",
+    "terms": [
+      "донецкая народная республика макеевский одномандатный избирательный округ",
+      "донецкая народная республика",
+      "макеевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-14",
+    "district_number": 14,
+    "region_id": "006-region",
+    "terms": [
+      "донецкая народная республика донецкий одномандатный избирательный округ",
+      "донецкая народная республика",
+      "донецкий"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-15",
+    "district_number": 15,
+    "region_id": "006-region",
+    "terms": [
+      "донецкая народная республика горловский одномандатный избирательный округ",
+      "донецкая народная республика",
+      "горловский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-16",
+    "district_number": 16,
+    "region_id": "007-region",
+    "terms": [
+      "республика ингушетия ингушский одномандатный избирательный округ",
+      "республика ингушетия",
+      "ингушский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-17",
+    "district_number": 17,
+    "region_id": "008-region",
+    "terms": [
+      "кабардино балкарская республика кабардино балкарский одномандатный избирательный округ",
+      "кабардино балкарская республика",
+      "кабардино балкарский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-18",
+    "district_number": 18,
+    "region_id": "009-region",
+    "terms": [
+      "республика калмыкия калмыцкий одномандатный избирательный округ",
+      "республика калмыкия",
+      "калмыцкий"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-19",
+    "district_number": 19,
+    "region_id": "010-region",
+    "terms": [
+      "карачаево черкесская республика карачаево черкесский одномандатный избирательный округ",
+      "карачаево черкесская республика",
+      "карачаево черкесский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-20",
+    "district_number": 20,
+    "region_id": "011-region",
+    "terms": [
+      "республика карелия карельский одномандатный избирательный округ",
+      "республика карелия",
+      "карельский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-21",
+    "district_number": 21,
+    "region_id": "012-region",
+    "terms": [
+      "республика коми сыктывкарский одномандатный избирательный округ",
+      "республика коми",
+      "сыктывкарский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-22",
+    "district_number": 22,
+    "region_id": "013-region",
+    "terms": [
+      "республика крым симферопольский одномандатный избирательный округ",
+      "республика крым",
+      "симферопольский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-23",
+    "district_number": 23,
+    "region_id": "013-region",
+    "terms": [
+      "республика крым керченский одномандатный избирательный округ",
+      "республика крым",
+      "керченский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-24",
+    "district_number": 24,
+    "region_id": "013-region",
+    "terms": [
+      "республика крым евпаторийский одномандатный избирательный округ",
+      "республика крым",
+      "евпаторийский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-25",
+    "district_number": 25,
+    "region_id": "014-region",
+    "terms": [
+      "луганская народная республика луганский одномандатный избирательный округ",
+      "луганская народная республика",
+      "луганский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-26",
+    "district_number": 26,
+    "region_id": "014-region",
+    "terms": [
+      "луганская народная республика алчевский одномандатный избирательный округ",
+      "луганская народная республика",
+      "алчевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-27",
+    "district_number": 27,
+    "region_id": "015-region",
+    "terms": [
+      "республика марий эл марийский одномандатный избирательный округ",
+      "республика марий эл",
+      "марийский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-28",
+    "district_number": 28,
+    "region_id": "016-region",
+    "terms": [
+      "республика мордовия мордовский одномандатный избирательный округ",
+      "республика мордовия",
+      "мордовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-29",
+    "district_number": 29,
+    "region_id": "017-region",
+    "terms": [
+      "республика саха якутия якутский одномандатный избирательный округ",
+      "республика саха якутия",
+      "якутский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-30",
+    "district_number": 30,
+    "region_id": "018-region",
+    "terms": [
+      "республика северная осетия алания северо осетинский одномандатный избирательный округ",
+      "республика северная осетия алания",
+      "северо осетинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-31",
+    "district_number": 31,
+    "region_id": "019-region",
+    "terms": [
+      "республика татарстан татарстан приволжский одномандатный избирательный округ",
+      "республика татарстан",
+      "приволжский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-32",
+    "district_number": 32,
+    "region_id": "019-region",
+    "terms": [
+      "республика татарстан татарстан московский одномандатный избирательный округ",
+      "республика татарстан",
+      "московский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-33",
+    "district_number": 33,
+    "region_id": "019-region",
+    "terms": [
+      "республика татарстан татарстан нижнекамский одномандатный избирательный округ",
+      "республика татарстан",
+      "нижнекамский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-34",
+    "district_number": 34,
+    "region_id": "019-region",
+    "terms": [
+      "республика татарстан татарстан набережно челнинский одномандатный избирательный округ",
+      "республика татарстан",
+      "набережно челнинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-35",
+    "district_number": 35,
+    "region_id": "019-region",
+    "terms": [
+      "республика татарстан татарстан альметьевский одномандатный избирательный округ",
+      "республика татарстан",
+      "альметьевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-36",
+    "district_number": 36,
+    "region_id": "019-region",
+    "terms": [
+      "республика татарстан татарстан центральный одномандатный избирательный округ",
+      "республика татарстан",
+      "центральный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-37",
+    "district_number": 37,
+    "region_id": "020-region",
+    "terms": [
+      "республика тыва тывинский одномандатный избирательный округ",
+      "республика тыва",
+      "тывинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-38",
+    "district_number": 38,
+    "region_id": "021-region",
+    "terms": [
+      "удмуртская республика удмуртский одномандатный избирательный округ",
+      "удмуртская республика",
+      "удмуртский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-39",
+    "district_number": 39,
+    "region_id": "021-region",
+    "terms": [
+      "удмуртская республика ижевский одномандатный избирательный округ",
+      "удмуртская республика",
+      "ижевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-40",
+    "district_number": 40,
+    "region_id": "022-region",
+    "terms": [
+      "республика хакасия хакасский одномандатный избирательный округ",
+      "республика хакасия",
+      "хакасский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-41",
+    "district_number": 41,
+    "region_id": "023-region",
+    "terms": [
+      "чеченская республика чеченский одномандатный избирательный округ",
+      "чеченская республика",
+      "чеченский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-42",
+    "district_number": 42,
+    "region_id": "024-region",
+    "terms": [
+      "чувашская республика чувашия канашский одномандатный избирательный округ",
+      "чувашская республика",
+      "канашский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-43",
+    "district_number": 43,
+    "region_id": "024-region",
+    "terms": [
+      "чувашская республика чувашия чебоксарский одномандатный избирательный округ",
+      "чувашская республика",
+      "чебоксарский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-44",
+    "district_number": 44,
+    "region_id": "025-region",
+    "terms": [
+      "алтайский край барнаульский одномандатный избирательный округ",
+      "алтайский край",
+      "барнаульский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-45",
+    "district_number": 45,
+    "region_id": "025-region",
+    "terms": [
+      "алтайский край бийский одномандатный избирательный округ",
+      "алтайский край",
+      "бийский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-46",
+    "district_number": 46,
+    "region_id": "025-region",
+    "terms": [
+      "алтайский край славгородский одномандатный избирательный округ",
+      "алтайский край",
+      "славгородский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-47",
+    "district_number": 47,
+    "region_id": "026-region",
+    "terms": [
+      "забайкальский край забайкальский одномандатный избирательный округ",
+      "забайкальский край",
+      "забайкальский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-48",
+    "district_number": 48,
+    "region_id": "027-region",
+    "terms": [
+      "камчатский край камчатский одномандатный избирательный округ",
+      "камчатский край",
+      "камчатский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-49",
+    "district_number": 49,
+    "region_id": "028-region",
+    "terms": [
+      "краснодарский край центральный одномандатный избирательный округ",
+      "краснодарский край",
+      "центральный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-50",
+    "district_number": 50,
+    "region_id": "028-region",
+    "terms": [
+      "краснодарский край северо западный одномандатный избирательный округ",
+      "краснодарский край",
+      "северо западный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-51",
+    "district_number": 51,
+    "region_id": "028-region",
+    "terms": [
+      "краснодарский край юго западный одномандатный избирательный округ",
+      "краснодарский край",
+      "юго западный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-52",
+    "district_number": 52,
+    "region_id": "028-region",
+    "terms": [
+      "краснодарский край западный одномандатный избирательный округ",
+      "краснодарский край",
+      "западный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-53",
+    "district_number": 53,
+    "region_id": "028-region",
+    "terms": [
+      "краснодарский край черноморский одномандатный избирательный округ",
+      "краснодарский край",
+      "черноморский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-54",
+    "district_number": 54,
+    "region_id": "028-region",
+    "terms": [
+      "краснодарский край южный одномандатный избирательный округ",
+      "краснодарский край",
+      "южный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-55",
+    "district_number": 55,
+    "region_id": "028-region",
+    "terms": [
+      "краснодарский край юго восточный одномандатный избирательный округ",
+      "краснодарский край",
+      "юго восточный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-56",
+    "district_number": 56,
+    "region_id": "028-region",
+    "terms": [
+      "краснодарский край восточный одномандатный избирательный округ",
+      "краснодарский край",
+      "восточный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-57",
+    "district_number": 57,
+    "region_id": "028-region",
+    "terms": [
+      "краснодарский край северный одномандатный избирательный округ",
+      "краснодарский край",
+      "северный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-58",
+    "district_number": 58,
+    "region_id": "029-region",
+    "terms": [
+      "красноярский край красноярский одномандатный избирательный округ",
+      "красноярский край",
+      "красноярский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-59",
+    "district_number": 59,
+    "region_id": "029-region",
+    "terms": [
+      "красноярский край центральный одномандатный избирательный округ",
+      "красноярский край",
+      "центральный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-60",
+    "district_number": 60,
+    "region_id": "029-region",
+    "terms": [
+      "красноярский край дивногорский одномандатный избирательный округ",
+      "красноярский край",
+      "дивногорский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-61",
+    "district_number": 61,
+    "region_id": "029-region",
+    "terms": [
+      "красноярский край енисейский одномандатный избирательный округ",
+      "красноярский край",
+      "енисейский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-62",
+    "district_number": 62,
+    "region_id": "030-region",
+    "terms": [
+      "пермский край пермский одномандатный избирательный округ",
+      "пермский край",
+      "пермский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-63",
+    "district_number": 63,
+    "region_id": "030-region",
+    "terms": [
+      "пермский край чусовской одномандатный избирательный округ",
+      "пермский край",
+      "чусовской"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-64",
+    "district_number": 64,
+    "region_id": "030-region",
+    "terms": [
+      "пермский край кунгурский одномандатный избирательный округ",
+      "пермский край",
+      "кунгурский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-65",
+    "district_number": 65,
+    "region_id": "030-region",
+    "terms": [
+      "пермский край кудымкарский одномандатный избирательный округ",
+      "пермский край",
+      "кудымкарский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-66",
+    "district_number": 66,
+    "region_id": "031-region",
+    "terms": [
+      "приморский край владивостокский одномандатный избирательный округ",
+      "приморский край",
+      "владивостокский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-67",
+    "district_number": 67,
+    "region_id": "031-region",
+    "terms": [
+      "приморский край артемовский одномандатный избирательный округ",
+      "приморский край",
+      "артемовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-68",
+    "district_number": 68,
+    "region_id": "031-region",
+    "terms": [
+      "приморский край арсеньевский одномандатный избирательный округ",
+      "приморский край",
+      "арсеньевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-69",
+    "district_number": 69,
+    "region_id": "032-region",
+    "terms": [
+      "ставропольский край ставропольский одномандатный избирательный округ",
+      "ставропольский край",
+      "ставропольский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-70",
+    "district_number": 70,
+    "region_id": "032-region",
+    "terms": [
+      "ставропольский край невинномысский одномандатный избирательный округ",
+      "ставропольский край",
+      "невинномысский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-71",
+    "district_number": 71,
+    "region_id": "032-region",
+    "terms": [
+      "ставропольский край кавминводский одномандатный избирательный округ",
+      "ставропольский край",
+      "кавминводский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-72",
+    "district_number": 72,
+    "region_id": "032-region",
+    "terms": [
+      "ставропольский край георгиевский одномандатный избирательный округ",
+      "ставропольский край",
+      "георгиевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-73",
+    "district_number": 73,
+    "region_id": "033-region",
+    "terms": [
+      "хабаровский край хабаровский одномандатный избирательный округ",
+      "хабаровский край",
+      "хабаровский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-74",
+    "district_number": 74,
+    "region_id": "033-region",
+    "terms": [
+      "хабаровский край комсомольский одномандатный избирательный округ",
+      "хабаровский край",
+      "комсомольский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-75",
+    "district_number": 75,
+    "region_id": "034-region",
+    "terms": [
+      "амурская область амурский одномандатный избирательный округ",
+      "амурская область",
+      "амурский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-76",
+    "district_number": 76,
+    "region_id": "035-region",
+    "terms": [
+      "архангельская область архангельский одномандатный избирательный округ",
+      "архангельская область",
+      "архангельский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-77",
+    "district_number": 77,
+    "region_id": "035-region",
+    "terms": [
+      "архангельская область котласский одномандатный избирательный округ",
+      "архангельская область",
+      "котласский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-78",
+    "district_number": 78,
+    "region_id": "036-region",
+    "terms": [
+      "астраханская область астраханский одномандатный избирательный округ",
+      "астраханская область",
+      "астраханский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-79",
+    "district_number": 79,
+    "region_id": "037-region",
+    "terms": [
+      "белгородская область белгородский одномандатный избирательный округ",
+      "белгородская область",
+      "белгородский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-80",
+    "district_number": 80,
+    "region_id": "037-region",
+    "terms": [
+      "белгородская область старооскольский одномандатный избирательный округ",
+      "белгородская область",
+      "старооскольский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-81",
+    "district_number": 81,
+    "region_id": "038-region",
+    "terms": [
+      "брянская область брянский одномандатный избирательный округ",
+      "брянская область",
+      "брянский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-82",
+    "district_number": 82,
+    "region_id": "038-region",
+    "terms": [
+      "брянская область унечский одномандатный избирательный округ",
+      "брянская область",
+      "унечский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-83",
+    "district_number": 83,
+    "region_id": "039-region",
+    "terms": [
+      "владимирская область владимирский одномандатный избирательный округ",
+      "владимирская область",
+      "владимирский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-84",
+    "district_number": 84,
+    "region_id": "039-region",
+    "terms": [
+      "владимирская область суздальский одномандатный избирательный округ",
+      "владимирская область",
+      "суздальский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-85",
+    "district_number": 85,
+    "region_id": "040-region",
+    "terms": [
+      "волгоградская область волгоградский одномандатный избирательный округ",
+      "волгоградская область",
+      "волгоградский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-86",
+    "district_number": 86,
+    "region_id": "040-region",
+    "terms": [
+      "волгоградская область михайловский одномандатный избирательный округ",
+      "волгоградская область",
+      "михайловский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-87",
+    "district_number": 87,
+    "region_id": "040-region",
+    "terms": [
+      "волгоградская область волжский одномандатный избирательный округ",
+      "волгоградская область",
+      "волжский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-88",
+    "district_number": 88,
+    "region_id": "041-region",
+    "terms": [
+      "вологодская область вологодский одномандатный избирательный округ",
+      "вологодская область",
+      "вологодский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-89",
+    "district_number": 89,
+    "region_id": "041-region",
+    "terms": [
+      "вологодская область череповецкий одномандатный избирательный округ",
+      "вологодская область",
+      "череповецкий"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-90",
+    "district_number": 90,
+    "region_id": "042-region",
+    "terms": [
+      "воронежская область воронежский одномандатный избирательный округ",
+      "воронежская область",
+      "воронежский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-91",
+    "district_number": 91,
+    "region_id": "042-region",
+    "terms": [
+      "воронежская область аннинский одномандатный избирательный округ",
+      "воронежская область",
+      "аннинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-92",
+    "district_number": 92,
+    "region_id": "042-region",
+    "terms": [
+      "воронежская область павловский одномандатный избирательный округ",
+      "воронежская область",
+      "павловский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-93",
+    "district_number": 93,
+    "region_id": "043-region",
+    "terms": [
+      "запорожская область запорожский одномандатный избирательный округ",
+      "запорожская область",
+      "запорожский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-94",
+    "district_number": 94,
+    "region_id": "044-region",
+    "terms": [
+      "ивановская область ивановский одномандатный избирательный округ",
+      "ивановская область",
+      "ивановский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-95",
+    "district_number": 95,
+    "region_id": "045-region",
+    "terms": [
+      "иркутская область иркутский одномандатный избирательный округ",
+      "иркутская область",
+      "иркутский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-96",
+    "district_number": 96,
+    "region_id": "045-region",
+    "terms": [
+      "иркутская область ангарский одномандатный избирательный округ",
+      "иркутская область",
+      "ангарский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-97",
+    "district_number": 97,
+    "region_id": "045-region",
+    "terms": [
+      "иркутская область шелеховский одномандатный избирательный округ",
+      "иркутская область",
+      "шелеховский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-98",
+    "district_number": 98,
+    "region_id": "045-region",
+    "terms": [
+      "иркутская область братский одномандатный избирательный округ",
+      "иркутская область",
+      "братский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-99",
+    "district_number": 99,
+    "region_id": "046-region",
+    "terms": [
+      "калининградская область калининградский одномандатный избирательный округ",
+      "калининградская область",
+      "калининградский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-100",
+    "district_number": 100,
+    "region_id": "046-region",
+    "terms": [
+      "калининградская область центральный одномандатный избирательный округ",
+      "калининградская область",
+      "центральный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-101",
+    "district_number": 101,
+    "region_id": "047-region",
+    "terms": [
+      "калужская область калужский одномандатный избирательный округ",
+      "калужская область",
+      "калужский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-102",
+    "district_number": 102,
+    "region_id": "048-region",
+    "terms": [
+      "кемеровская область кузбасс кемеровский одномандатный избирательный округ",
+      "кемеровская область кузбасс",
+      "кемеровский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-103",
+    "district_number": 103,
+    "region_id": "048-region",
+    "terms": [
+      "кемеровская область кузбасс прокопьевский одномандатный избирательный округ",
+      "кемеровская область кузбасс",
+      "прокопьевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-104",
+    "district_number": 104,
+    "region_id": "048-region",
+    "terms": [
+      "кемеровская область кузбасс заводский одномандатный избирательный округ",
+      "кемеровская область кузбасс",
+      "заводский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-105",
+    "district_number": 105,
+    "region_id": "048-region",
+    "terms": [
+      "кемеровская область кузбасс новокузнецкий одномандатный избирательный округ",
+      "кемеровская область кузбасс",
+      "новокузнецкий"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-106",
+    "district_number": 106,
+    "region_id": "049-region",
+    "terms": [
+      "кировская область кировский одномандатный избирательный округ",
+      "кировская область",
+      "кировский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-107",
+    "district_number": 107,
+    "region_id": "049-region",
+    "terms": [
+      "кировская область кирово чепецкий одномандатный избирательный округ",
+      "кировская область",
+      "кирово чепецкий"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-108",
+    "district_number": 108,
+    "region_id": "050-region",
+    "terms": [
+      "костромская область костромской одномандатный избирательный округ",
+      "костромская область",
+      "костромской"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-109",
+    "district_number": 109,
+    "region_id": "051-region",
+    "terms": [
+      "курганская область курганский одномандатный избирательный округ",
+      "курганская область",
+      "курганский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-110",
+    "district_number": 110,
+    "region_id": "052-region",
+    "terms": [
+      "курская область курский одномандатный избирательный округ",
+      "курская область",
+      "курский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-111",
+    "district_number": 111,
+    "region_id": "052-region",
+    "terms": [
+      "курская область сеймский одномандатный избирательный округ",
+      "курская область",
+      "сеймский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-112",
+    "district_number": 112,
+    "region_id": "053-region",
+    "terms": [
+      "ленинградская область всеволожский одномандатный избирательный округ",
+      "ленинградская область",
+      "всеволожский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-113",
+    "district_number": 113,
+    "region_id": "053-region",
+    "terms": [
+      "ленинградская область гатчинский одномандатный избирательный округ",
+      "ленинградская область",
+      "гатчинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-114",
+    "district_number": 114,
+    "region_id": "053-region",
+    "terms": [
+      "ленинградская область волховский одномандатный избирательный округ",
+      "ленинградская область",
+      "волховский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-115",
+    "district_number": 115,
+    "region_id": "054-region",
+    "terms": [
+      "липецкая область липецкий одномандатный избирательный округ",
+      "липецкая область",
+      "липецкий"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-116",
+    "district_number": 116,
+    "region_id": "054-region",
+    "terms": [
+      "липецкая область левобережный одномандатный избирательный округ",
+      "липецкая область",
+      "левобережный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-117",
+    "district_number": 117,
+    "region_id": "055-region",
+    "terms": [
+      "магаданская область магаданский одномандатный избирательный округ",
+      "магаданская область",
+      "магаданский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-118",
+    "district_number": 118,
+    "region_id": "056-region",
+    "terms": [
+      "московская область балашихинский одномандатный избирательный округ",
+      "московская область",
+      "балашихинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-119",
+    "district_number": 119,
+    "region_id": "056-region",
+    "terms": [
+      "московская область дмитровский одномандатный избирательный округ",
+      "московская область",
+      "дмитровский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-120",
+    "district_number": 120,
+    "region_id": "056-region",
+    "terms": [
+      "московская область коломенский одномандатный избирательный округ",
+      "московская область",
+      "коломенский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-121",
+    "district_number": 121,
+    "region_id": "056-region",
+    "terms": [
+      "московская область красногорский одномандатный избирательный округ",
+      "московская область",
+      "красногорский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-122",
+    "district_number": 122,
+    "region_id": "056-region",
+    "terms": [
+      "московская область люберецкий одномандатный избирательный округ",
+      "московская область",
+      "люберецкий"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-123",
+    "district_number": 123,
+    "region_id": "056-region",
+    "terms": [
+      "московская область мытищинский одномандатный избирательный округ",
+      "московская область",
+      "мытищинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-124",
+    "district_number": 124,
+    "region_id": "056-region",
+    "terms": [
+      "московская область одинцовский одномандатный избирательный округ",
+      "московская область",
+      "одинцовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-125",
+    "district_number": 125,
+    "region_id": "056-region",
+    "terms": [
+      "московская область орехово зуевский одномандатный избирательный округ",
+      "московская область",
+      "орехово зуевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-126",
+    "district_number": 126,
+    "region_id": "056-region",
+    "terms": [
+      "московская область подольский одномандатный избирательный округ",
+      "московская область",
+      "подольский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-127",
+    "district_number": 127,
+    "region_id": "056-region",
+    "terms": [
+      "московская область сергиево посадский одномандатный избирательный округ",
+      "московская область",
+      "сергиево посадский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-128",
+    "district_number": 128,
+    "region_id": "056-region",
+    "terms": [
+      "московская область серпуховский одномандатный избирательный округ",
+      "московская область",
+      "серпуховский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-129",
+    "district_number": 129,
+    "region_id": "056-region",
+    "terms": [
+      "московская область щелковский одномандатный избирательный округ",
+      "московская область",
+      "щелковский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-130",
+    "district_number": 130,
+    "region_id": "057-region",
+    "terms": [
+      "мурманская область мурманский одномандатный избирательный округ",
+      "мурманская область",
+      "мурманский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-131",
+    "district_number": 131,
+    "region_id": "058-region",
+    "terms": [
+      "нижегородская область нижегородский одномандатный избирательный округ",
+      "нижегородская область",
+      "нижегородский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-132",
+    "district_number": 132,
+    "region_id": "058-region",
+    "terms": [
+      "нижегородская область приокский одномандатный избирательный округ",
+      "нижегородская область",
+      "приокский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-133",
+    "district_number": 133,
+    "region_id": "058-region",
+    "terms": [
+      "нижегородская область автозаводский одномандатный избирательный округ",
+      "нижегородская область",
+      "автозаводский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-134",
+    "district_number": 134,
+    "region_id": "058-region",
+    "terms": [
+      "нижегородская область канавинский одномандатный избирательный округ",
+      "нижегородская область",
+      "канавинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-135",
+    "district_number": 135,
+    "region_id": "058-region",
+    "terms": [
+      "нижегородская область борский одномандатный избирательный округ",
+      "нижегородская область",
+      "борский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-136",
+    "district_number": 136,
+    "region_id": "059-region",
+    "terms": [
+      "новгородская область новгородский одномандатный избирательный округ",
+      "новгородская область",
+      "новгородский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-137",
+    "district_number": 137,
+    "region_id": "060-region",
+    "terms": [
+      "новосибирская область новосибирский одномандатный избирательный округ",
+      "новосибирская область",
+      "новосибирский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-138",
+    "district_number": 138,
+    "region_id": "060-region",
+    "terms": [
+      "новосибирская область центральный одномандатный избирательный округ",
+      "новосибирская область",
+      "центральный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-139",
+    "district_number": 139,
+    "region_id": "060-region",
+    "terms": [
+      "новосибирская область искитимский одномандатный избирательный округ",
+      "новосибирская область",
+      "искитимский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-140",
+    "district_number": 140,
+    "region_id": "060-region",
+    "terms": [
+      "новосибирская область барабинский одномандатный избирательный округ",
+      "новосибирская область",
+      "барабинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-141",
+    "district_number": 141,
+    "region_id": "061-region",
+    "terms": [
+      "омская область омский одномандатный избирательный округ",
+      "омская область",
+      "омский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-142",
+    "district_number": 142,
+    "region_id": "061-region",
+    "terms": [
+      "омская область москаленский одномандатный избирательный округ",
+      "омская область",
+      "москаленский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-143",
+    "district_number": 143,
+    "region_id": "061-region",
+    "terms": [
+      "омская область любинский одномандатный избирательный округ",
+      "омская область",
+      "любинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-144",
+    "district_number": 144,
+    "region_id": "062-region",
+    "terms": [
+      "оренбургская область оренбургский одномандатный избирательный округ",
+      "оренбургская область",
+      "оренбургский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-145",
+    "district_number": 145,
+    "region_id": "062-region",
+    "terms": [
+      "оренбургская область бугурусланский одномандатный избирательный округ",
+      "оренбургская область",
+      "бугурусланский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-146",
+    "district_number": 146,
+    "region_id": "062-region",
+    "terms": [
+      "оренбургская область орский одномандатный избирательный округ",
+      "оренбургская область",
+      "орский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-147",
+    "district_number": 147,
+    "region_id": "063-region",
+    "terms": [
+      "орловская область орловский одномандатный избирательный округ",
+      "орловская область",
+      "орловский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-148",
+    "district_number": 148,
+    "region_id": "064-region",
+    "terms": [
+      "пензенская область пензенский одномандатный избирательный округ",
+      "пензенская область",
+      "пензенский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-149",
+    "district_number": 149,
+    "region_id": "064-region",
+    "terms": [
+      "пензенская область лермонтовский одномандатный избирательный округ",
+      "пензенская область",
+      "лермонтовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-150",
+    "district_number": 150,
+    "region_id": "065-region",
+    "terms": [
+      "псковская область псковский одномандатный избирательный округ",
+      "псковская область",
+      "псковский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-151",
+    "district_number": 151,
+    "region_id": "066-region",
+    "terms": [
+      "ростовская область ростовский одномандатный избирательный округ",
+      "ростовская область",
+      "ростовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-152",
+    "district_number": 152,
+    "region_id": "066-region",
+    "terms": [
+      "ростовская область батайский одномандатный избирательный округ",
+      "ростовская область",
+      "батайский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-153",
+    "district_number": 153,
+    "region_id": "066-region",
+    "terms": [
+      "ростовская область новочеркасский одномандатный избирательный округ",
+      "ростовская область",
+      "новочеркасский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-154",
+    "district_number": 154,
+    "region_id": "066-region",
+    "terms": [
+      "ростовская область неклиновский одномандатный избирательный округ",
+      "ростовская область",
+      "неклиновский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-155",
+    "district_number": 155,
+    "region_id": "066-region",
+    "terms": [
+      "ростовская область белокалитвинский одномандатный избирательный округ",
+      "ростовская область",
+      "белокалитвинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-156",
+    "district_number": 156,
+    "region_id": "066-region",
+    "terms": [
+      "ростовская область усть донецкий одномандатный избирательный округ",
+      "ростовская область",
+      "усть донецкий"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-157",
+    "district_number": 157,
+    "region_id": "067-region",
+    "terms": [
+      "рязанская область рязанский одномандатный избирательный округ",
+      "рязанская область",
+      "рязанский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-158",
+    "district_number": 158,
+    "region_id": "067-region",
+    "terms": [
+      "рязанская область скопинский одномандатный избирательный округ",
+      "рязанская область",
+      "скопинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-159",
+    "district_number": 159,
+    "region_id": "068-region",
+    "terms": [
+      "самарская область самарский одномандатный избирательный округ",
+      "самарская область",
+      "самарский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-160",
+    "district_number": 160,
+    "region_id": "068-region",
+    "terms": [
+      "самарская область тольяттинский одномандатный избирательный округ",
+      "самарская область",
+      "тольяттинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-161",
+    "district_number": 161,
+    "region_id": "068-region",
+    "terms": [
+      "самарская область красноглинский одномандатный избирательный округ",
+      "самарская область",
+      "красноглинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-162",
+    "district_number": 162,
+    "region_id": "068-region",
+    "terms": [
+      "самарская область жигулевский одномандатный избирательный округ",
+      "самарская область",
+      "жигулевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-163",
+    "district_number": 163,
+    "region_id": "068-region",
+    "terms": [
+      "самарская область промышленный одномандатный избирательный округ",
+      "самарская область",
+      "промышленный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-164",
+    "district_number": 164,
+    "region_id": "069-region",
+    "terms": [
+      "саратовская область саратовский одномандатный избирательный округ",
+      "саратовская область",
+      "саратовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-165",
+    "district_number": 165,
+    "region_id": "069-region",
+    "terms": [
+      "саратовская область балаковский одномандатный избирательный округ",
+      "саратовская область",
+      "балаковский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-166",
+    "district_number": 166,
+    "region_id": "069-region",
+    "terms": [
+      "саратовская область балашовский одномандатный избирательный округ",
+      "саратовская область",
+      "балашовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-167",
+    "district_number": 167,
+    "region_id": "069-region",
+    "terms": [
+      "саратовская область энгельсский одномандатный избирательный округ",
+      "саратовская область",
+      "энгельсский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-168",
+    "district_number": 168,
+    "region_id": "070-region",
+    "terms": [
+      "сахалинская область сахалинский одномандатный избирательный округ",
+      "сахалинская область",
+      "сахалинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-169",
+    "district_number": 169,
+    "region_id": "071-region",
+    "terms": [
+      "свердловская область свердловский одномандатный избирательный округ",
+      "свердловская область",
+      "свердловский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-170",
+    "district_number": 170,
+    "region_id": "071-region",
+    "terms": [
+      "свердловская область каменск уральский одномандатный избирательный округ",
+      "свердловская область",
+      "каменск уральский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-171",
+    "district_number": 171,
+    "region_id": "071-region",
+    "terms": [
+      "свердловская область березовский одномандатный избирательный округ",
+      "свердловская область",
+      "березовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-172",
+    "district_number": 172,
+    "region_id": "071-region",
+    "terms": [
+      "свердловская область нижнетагильский одномандатный избирательный округ",
+      "свердловская область",
+      "нижнетагильский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-173",
+    "district_number": 173,
+    "region_id": "071-region",
+    "terms": [
+      "свердловская область асбестовский одномандатный избирательный округ",
+      "свердловская область",
+      "асбестовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-174",
+    "district_number": 174,
+    "region_id": "071-region",
+    "terms": [
+      "свердловская область первоуральский одномандатный избирательный округ",
+      "свердловская область",
+      "первоуральский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-175",
+    "district_number": 175,
+    "region_id": "071-region",
+    "terms": [
+      "свердловская область серовский одномандатный избирательный округ",
+      "свердловская область",
+      "серовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-176",
+    "district_number": 176,
+    "region_id": "072-region",
+    "terms": [
+      "смоленская область смоленский одномандатный избирательный округ",
+      "смоленская область",
+      "смоленский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-177",
+    "district_number": 177,
+    "region_id": "073-region",
+    "terms": [
+      "тамбовская область тамбовский одномандатный избирательный округ",
+      "тамбовская область",
+      "тамбовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-178",
+    "district_number": 178,
+    "region_id": "074-region",
+    "terms": [
+      "тверская область тверской одномандатный избирательный округ",
+      "тверская область",
+      "тверской"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-179",
+    "district_number": 179,
+    "region_id": "074-region",
+    "terms": [
+      "тверская область заволжский одномандатный избирательный округ",
+      "тверская область",
+      "заволжский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-180",
+    "district_number": 180,
+    "region_id": "075-region",
+    "terms": [
+      "томская область томский одномандатный избирательный округ",
+      "томская область",
+      "томский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-181",
+    "district_number": 181,
+    "region_id": "076-region",
+    "terms": [
+      "тульская область тульский одномандатный избирательный округ",
+      "тульская область",
+      "тульский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-182",
+    "district_number": 182,
+    "region_id": "076-region",
+    "terms": [
+      "тульская область новомосковский одномандатный избирательный округ",
+      "тульская область",
+      "новомосковский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-183",
+    "district_number": 183,
+    "region_id": "077-region",
+    "terms": [
+      "тюменская область тюменский одномандатный избирательный округ",
+      "тюменская область",
+      "тюменский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-184",
+    "district_number": 184,
+    "region_id": "077-region",
+    "terms": [
+      "тюменская область заводоуковский одномандатный избирательный округ",
+      "тюменская область",
+      "заводоуковский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-185",
+    "district_number": 185,
+    "region_id": "078-region",
+    "terms": [
+      "ульяновская область ульяновский одномандатный избирательный округ",
+      "ульяновская область",
+      "ульяновский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-186",
+    "district_number": 186,
+    "region_id": "078-region",
+    "terms": [
+      "ульяновская область радищевский одномандатный избирательный округ",
+      "ульяновская область",
+      "радищевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-187",
+    "district_number": 187,
+    "region_id": "079-region",
+    "terms": [
+      "херсонская область херсонский одномандатный избирательный округ",
+      "херсонская область",
+      "херсонский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-188",
+    "district_number": 188,
+    "region_id": "080-region",
+    "terms": [
+      "челябинская область челябинский одномандатный избирательный округ",
+      "челябинская область",
+      "челябинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-189",
+    "district_number": 189,
+    "region_id": "080-region",
+    "terms": [
+      "челябинская область металлургический одномандатный избирательный округ",
+      "челябинская область",
+      "металлургический"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-190",
+    "district_number": 190,
+    "region_id": "080-region",
+    "terms": [
+      "челябинская область коркинский одномандатный избирательный округ",
+      "челябинская область",
+      "коркинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-191",
+    "district_number": 191,
+    "region_id": "080-region",
+    "terms": [
+      "челябинская область магнитогорский одномандатный избирательный округ",
+      "челябинская область",
+      "магнитогорский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-192",
+    "district_number": 192,
+    "region_id": "080-region",
+    "terms": [
+      "челябинская область златоустовский одномандатный избирательный округ",
+      "челябинская область",
+      "златоустовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-193",
+    "district_number": 193,
+    "region_id": "081-region",
+    "terms": [
+      "ярославская область ярославский одномандатный избирательный округ",
+      "ярославская область",
+      "ярославский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-194",
+    "district_number": 194,
+    "region_id": "081-region",
+    "terms": [
+      "ярославская область ростовский одномандатный избирательный округ",
+      "ярославская область",
+      "ростовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-195",
+    "district_number": 195,
+    "region_id": "082-region",
+    "terms": [
+      "город москва бабушкинский одномандатный избирательный округ",
+      "город москва",
+      "бабушкинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-196",
+    "district_number": 196,
+    "region_id": "082-region",
+    "terms": [
+      "город москва кунцевский одномандатный избирательный округ",
+      "город москва",
+      "кунцевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-197",
+    "district_number": 197,
+    "region_id": "082-region",
+    "terms": [
+      "город москва ленинградский одномандатный избирательный округ",
+      "город москва",
+      "ленинградский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-198",
+    "district_number": 198,
+    "region_id": "082-region",
+    "terms": [
+      "город москва люблинский одномандатный избирательный округ",
+      "город москва",
+      "люблинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-199",
+    "district_number": 199,
+    "region_id": "082-region",
+    "terms": [
+      "город москва медведковский одномандатный избирательный округ",
+      "город москва",
+      "медведковский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-200",
+    "district_number": 200,
+    "region_id": "082-region",
+    "terms": [
+      "город москва нагатинский одномандатный избирательный округ",
+      "город москва",
+      "нагатинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-201",
+    "district_number": 201,
+    "region_id": "082-region",
+    "terms": [
+      "город москва новомосковский одномандатный избирательный округ",
+      "город москва",
+      "новомосковский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-202",
+    "district_number": 202,
+    "region_id": "082-region",
+    "terms": [
+      "город москва орехово борисовский одномандатный избирательный округ",
+      "город москва",
+      "орехово борисовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-203",
+    "district_number": 203,
+    "region_id": "082-region",
+    "terms": [
+      "город москва перовский одномандатный избирательный округ",
+      "город москва",
+      "перовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-204",
+    "district_number": 204,
+    "region_id": "082-region",
+    "terms": [
+      "город москва преображенский одномандатный избирательный округ",
+      "город москва",
+      "преображенский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-205",
+    "district_number": 205,
+    "region_id": "082-region",
+    "terms": [
+      "город москва тушинский одномандатный избирательный округ",
+      "город москва",
+      "тушинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-206",
+    "district_number": 206,
+    "region_id": "082-region",
+    "terms": [
+      "город москва ховринский одномандатный избирательный округ",
+      "город москва",
+      "ховринский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-207",
+    "district_number": 207,
+    "region_id": "082-region",
+    "terms": [
+      "город москва центральный одномандатный избирательный округ",
+      "город москва",
+      "центральный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-208",
+    "district_number": 208,
+    "region_id": "082-region",
+    "terms": [
+      "город москва черемушкинский одномандатный избирательный округ",
+      "город москва",
+      "черемушкинский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-209",
+    "district_number": 209,
+    "region_id": "082-region",
+    "terms": [
+      "город москва чертановский одномандатный избирательный округ",
+      "город москва",
+      "чертановский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-210",
+    "district_number": 210,
+    "region_id": "082-region",
+    "terms": [
+      "город москва солнцевский одномандатный избирательный округ",
+      "город москва",
+      "солнцевский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-211",
+    "district_number": 211,
+    "region_id": "083-region",
+    "terms": [
+      "город санкт петербург восточный одномандатный избирательный округ",
+      "город санкт петербург",
+      "восточный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-212",
+    "district_number": 212,
+    "region_id": "083-region",
+    "terms": [
+      "город санкт петербург западный одномандатный избирательный округ",
+      "город санкт петербург",
+      "западный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-213",
+    "district_number": 213,
+    "region_id": "083-region",
+    "terms": [
+      "город санкт петербург северный одномандатный избирательный округ",
+      "город санкт петербург",
+      "северный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-214",
+    "district_number": 214,
+    "region_id": "083-region",
+    "terms": [
+      "город санкт петербург северо восточный одномандатный избирательный округ",
+      "город санкт петербург",
+      "северо восточный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-215",
+    "district_number": 215,
+    "region_id": "083-region",
+    "terms": [
+      "город санкт петербург северо западный одномандатный избирательный округ",
+      "город санкт петербург",
+      "северо западный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-216",
+    "district_number": 216,
+    "region_id": "083-region",
+    "terms": [
+      "город санкт петербург центральный одномандатный избирательный округ",
+      "город санкт петербург",
+      "центральный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-217",
+    "district_number": 217,
+    "region_id": "083-region",
+    "terms": [
+      "город санкт петербург юго восточный одномандатный избирательный округ",
+      "город санкт петербург",
+      "юго восточный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-218",
+    "district_number": 218,
+    "region_id": "083-region",
+    "terms": [
+      "город санкт петербург южный одномандатный избирательный округ",
+      "город санкт петербург",
+      "южный"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-219",
+    "district_number": 219,
+    "region_id": "084-region",
+    "terms": [
+      "город севастополь севастопольский одномандатный избирательный округ",
+      "город севастополь",
+      "севастопольский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-220",
+    "district_number": 220,
+    "region_id": "085-region",
+    "terms": [
+      "еврейская автономная область еврейский одномандатный избирательный округ",
+      "еврейская автономная область",
+      "еврейский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-221",
+    "district_number": 221,
+    "region_id": "086-region",
+    "terms": [
+      "ненецкий автономный округ ненецкий одномандатный избирательный округ",
+      "ненецкий автономный округ",
+      "ненецкий"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-222",
+    "district_number": 222,
+    "region_id": "087-region",
+    "terms": [
+      "ханты мансийский автономный округ югра ханты мансийский одномандатный избирательный округ",
+      "ханты мансийский автономный округ",
+      "ханты мансийский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-223",
+    "district_number": 223,
+    "region_id": "087-region",
+    "terms": [
+      "ханты мансийский автономный округ югра нижневартовский одномандатный избирательный округ",
+      "ханты мансийский автономный округ",
+      "нижневартовский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-224",
+    "district_number": 224,
+    "region_id": "088-region",
+    "terms": [
+      "чукотский автономный округ чукотский одномандатный избирательный округ",
+      "чукотский автономный округ",
+      "чукотский"
+    ],
+    "review_required": true
+  },
+  {
+    "district_id": "district-225",
+    "district_number": 225,
+    "region_id": "089-region",
+    "terms": [
+      "ямало ненецкий автономный округ ямало ненецкий одномандатный избирательный округ",
+      "ямало ненецкий автономный округ",
+      "ямало ненецкий"
+    ],
+    "review_required": true
+  }
+]

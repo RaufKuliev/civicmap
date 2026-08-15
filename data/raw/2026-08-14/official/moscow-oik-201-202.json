@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "fixture_id": "moscow-oik-201-202-2026-08-14",
+  "observed_on": "2026-08-14",
+  "acquisition": "manual_transcription_verified",
+  "source_pages": [
+    {
+      "id": "moscow-oik-201",
+      "title": "Решения окружной избирательной комиссии по одномандатному округу № 201",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "publisher": "Московская городская избирательная комиссия"
+    },
+    {
+      "id": "moscow-oik-202",
+      "title": "Решения окружной избирательной комиссии по одномандатному округу № 202",
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "publisher": "Московская городская избирательная комиссия"
+    }
+  ],
+  "records": [
+    {
+      "candidate_id": "c201-communists-russia-6a062131a0",
+      "full_name": "Андрусенко Наталия Юрьевна",
+      "birth_date": "1954-10-28",
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "communists-russia",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "7/6", "decided_on": "2026-07-27", "commission": "ОИК № 201" },
+      "source_page_id": "moscow-oik-201"
+    },
+    {
+      "candidate_id": "c201-new-people-0c8d4ba84b",
+      "full_name": "Анисимов Максим Константинович",
+      "birth_date": "2000-09-06",
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "new-people",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "7/1", "decided_on": "2026-07-27", "commission": "ОИК № 201" },
+      "source_page_id": "moscow-oik-201"
+    },
+    {
+      "candidate_id": "c201-fair-russia-4ceb0cc4bf",
+      "full_name": "Артамонов Александр Германович",
+      "birth_date": "1968-04-05",
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "fair-russia",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "7/4", "decided_on": "2026-07-27", "commission": "ОИК № 201" },
+      "source_page_id": "moscow-oik-201"
+    },
+    {
+      "candidate_id": "c201-yabloko-0dac756762",
+      "full_name": "Ковалев Семен Юрьевич",
+      "birth_date": "1996-04-25",
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "yabloko",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "7/3", "decided_on": "2026-07-27", "commission": "ОИК № 201" },
+      "source_page_id": "moscow-oik-201"
+    },
+    {
+      "candidate_id": "c201-greens-639d48d182",
+      "full_name": "Ковалев Сергей Анатольевич",
+      "birth_date": "1974-04-04",
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "greens",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "7/5", "decided_on": "2026-07-27", "commission": "ОИК № 201" },
+      "source_page_id": "moscow-oik-201"
+    },
+    {
+      "candidate_id": "c201-ldpr-ed4c83577d",
+      "full_name": "Лапшов Алексей Сергеевич",
+      "birth_date": "1973-12-05",
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "ldpr",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "5/1", "decided_on": "2026-07-20", "commission": "ОИК № 201" },
+      "source_page_id": "moscow-oik-201"
+    },
+    {
+      "candidate_id": "c201-kprf-a042d41dcf",
+      "full_name": "Потемко-Стеценко Михаил Алексеевич",
+      "birth_date": "1964-01-20",
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "kprf",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "7/2", "decided_on": "2026-07-27", "commission": "ОИК № 201" },
+      "source_page_id": "moscow-oik-201"
+    },
+    {
+      "candidate_id": "c201-united-russia-7940cb4d34",
+      "full_name": "Саблин Дмитрий Вадимович",
+      "birth_date": "1968-09-05",
+      "district_number": 201,
+      "nomination_type": "party",
+      "party_id": "united-russia",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "5/2", "decided_on": "2026-07-20", "commission": "ОИК № 201" },
+      "source_page_id": "moscow-oik-201"
+    },
+    {
+      "candidate_id": "c202-communists-russia-1d7d77b023",
+      "full_name": "Андрусенко Леонид Степанович",
+      "birth_date": "1961-03-08",
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "communists-russia",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "7/2", "decided_on": "2026-07-28", "commission": "ОИК № 202" },
+      "source_page_id": "moscow-oik-202"
+    },
+    {
+      "candidate_id": "c202-ldpr-7ad91a8286",
+      "full_name": "Борисоглебский Никита Маркович",
+      "birth_date": "1985-12-23",
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "ldpr",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "6/1", "decided_on": "2026-07-22", "commission": "ОИК № 202" },
+      "source_page_id": "moscow-oik-202"
+    },
+    {
+      "candidate_id": "c202-kprf-d2f0855da6",
+      "full_name": "Воробьёв Леонид Дмитриевич",
+      "birth_date": "1984-05-20",
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "kprf",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "6/3", "decided_on": "2026-07-22", "commission": "ОИК № 202" },
+      "source_page_id": "moscow-oik-202"
+    },
+    {
+      "candidate_id": "c202-new-people-4c711bf266",
+      "full_name": "Демидов Иван Александрович",
+      "birth_date": "1995-09-06",
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "new-people",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "6/2", "decided_on": "2026-07-22", "commission": "ОИК № 202" },
+      "source_page_id": "moscow-oik-202"
+    },
+    {
+      "candidate_id": "c202-fair-russia-2a8268deb8",
+      "full_name": "Иванов Андрей Викторович",
+      "birth_date": "1986-03-15",
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "fair-russia",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "7/1", "decided_on": "2026-07-28", "commission": "ОИК № 202" },
+      "source_page_id": "moscow-oik-202"
+    },
+    {
+      "candidate_id": "c202-united-russia-2a7cd4d6e8",
+      "full_name": "Нифантьев Евгений Олегович",
+      "birth_date": "1978-09-14",
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "united-russia",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "6/4", "decided_on": "2026-07-22", "commission": "ОИК № 202" },
+      "source_page_id": "moscow-oik-202"
+    },
+    {
+      "candidate_id": "c202-yabloko-0acc86c64f",
+      "full_name": "Пархоменко Сергей Дмитриевич",
+      "birth_date": "1999-09-08",
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "yabloko",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "8/1", "decided_on": "2026-08-03", "commission": "ОИК № 202" },
+      "source_page_id": "moscow-oik-202"
+    },
+    {
+      "candidate_id": "c202-greens-e46ad251cf",
+      "full_name": "Чеботарев Павел Геннадьевич",
+      "birth_date": "1980-09-01",
+      "district_number": 202,
+      "nomination_type": "party",
+      "party_id": "greens",
+      "nominated_on": "2026-07-18",
+      "status": "registered",
+      "decision": { "number": "7/3", "decided_on": "2026-07-28", "commission": "ОИК № 202" },
+      "source_page_id": "moscow-oik-202"
+    }
+  ]
+}

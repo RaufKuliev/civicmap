@@ -1,0 +1,62 @@
+[
+  {
+    "candidate_id": "c198-united-russia-52c3369c3e",
+    "type": "other",
+    "title": "Профиль Петра Толстого на сайте Государственной Думы",
+    "url": "https://duma.gov.ru/duma/persons/99112869/",
+    "verification_status": "verified_by_official_profile",
+    "verification_method": "Страница в официальном реестре депутатов совпадает по полному имени и дате рождения",
+    "verified_at": "2026-08-14",
+    "source_url": "https://duma.gov.ru/duma/persons/99112869/",
+    "publisher": "Государственная Дума Федерального Собрания Российской Федерации",
+    "source_class": "government_official",
+    "quality_tier": "primary_official",
+    "published_on": null,
+    "accessed_on": "2026-08-14"
+  },
+  {
+    "candidate_id": "c200-united-russia-5364912f1a",
+    "type": "other",
+    "title": "Профиль Светланы Разворотневой на сайте Государственной Думы",
+    "url": "https://duma.gov.ru/duma/persons/1055986/",
+    "verification_status": "verified_by_official_profile",
+    "verification_method": "Страница в официальном реестре депутатов совпадает по полному имени и дате рождения",
+    "verified_at": "2026-08-14",
+    "source_url": "https://duma.gov.ru/duma/persons/1055986/",
+    "publisher": "Государственная Дума Федерального Собрания Российской Федерации",
+    "source_class": "government_official",
+    "quality_tier": "primary_official",
+    "published_on": null,
+    "accessed_on": "2026-08-14"
+  },
+  {
+    "candidate_id": "c201-united-russia-7940cb4d34",
+    "type": "other",
+    "title": "Профиль Дмитрия Саблина на сайте Государственной Думы",
+    "url": "https://duma.gov.ru/duma/persons/99109963/",
+    "verification_status": "verified_by_official_profile",
+    "verification_method": "Страница в официальном реестре депутатов совпадает по полному имени и дате рождения",
+    "verified_at": "2026-08-14",
+    "source_url": "https://duma.gov.ru/duma/persons/99109963/",
+    "publisher": "Государственная Дума Федерального Собрания Российской Федерации",
+    "source_class": "government_official",
+    "quality_tier": "primary_official",
+    "published_on": null,
+    "accessed_on": "2026-08-14"
+  },
+  {
+    "candidate_id": "c204-united-russia-417d409120",
+    "type": "other",
+    "title": "Профиль Владислава Третьяка на сайте Государственной Думы",
+    "url": "https://duma.gov.ru/duma/persons/99109957/",
+    "verification_status": "verified_by_official_profile",
+    "verification_method": "Страница в официальном реестре депутатов совпадает по полному имени и дате рождения",
+    "verified_at": "2026-08-14",
+    "source_url": "https://duma.gov.ru/duma/persons/99109957/",
+    "publisher": "Государственная Дума Федерального Собрания Российской Федерации",
+    "source_class": "government_official",
+    "quality_tier": "primary_official",
+    "published_on": null,
+    "accessed_on": "2026-08-14"
+  }
+]
