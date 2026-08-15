@@ -50,7 +50,7 @@
     "tsx": "latest",
     "typescript": "6.0.2",
     "vitest": "latest",
-    "yaml": "2.8.1"
+    "yaml": "2.9.0"
   },
   "packageManager": "pnpm@11.17.0"
 }
