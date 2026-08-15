@@ -27,7 +27,7 @@ jobs:
       - run: pnpm data:validate
       - run: pnpm data:coverage | tee coverage.txt
       - run: pnpm data:evidence
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: data-review-${{ inputs.snapshot_date }}
           path: |
