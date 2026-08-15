@@ -5,7 +5,7 @@
   "security_contact": null,
   "editorial_contact": null,
   "source_terms_reviewed": false,
-  "pages_enabled": false,
+  "pages_enabled": true,
   "deployment_guard_removed": true,
   "custom_domain_decision": null,
   "geocoder_policy_reviewed": false
