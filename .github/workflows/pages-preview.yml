@@ -35,7 +35,7 @@ jobs:
         env:
           NEXT_PUBLIC_BASE_PATH: /civicmap
       - run: pnpm static:check:subpath
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: out
 
